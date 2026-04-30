@@ -89,7 +89,7 @@ No forms. Send us your proposal — what you want to work on and why. Templates 
 
 **Educator Track:** Tell us what you want to teach, where, and to whom. Show us you understand the material well enough to teach it.
 
-Email: **fellowship@codeorange.dev**
+Email: **hello@codeorange.dev**
 
 ### 2. Get Accepted
 
