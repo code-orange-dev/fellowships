@@ -89,7 +89,7 @@ No forms. Send us your proposal — what you want to work on and why. Templates 
 
 **Educator Track:** Tell us what you want to teach, where, and to whom. Show us you understand the material well enough to teach it.
 
-Email: **hello@codeorange.dev**
+Email: **fellowship@codeorange.dev**
 
 ### 2. Get Accepted
 
@@ -146,9 +146,89 @@ Two cohorts per year:
 
 ---
 
+## Who's Done This Before
+
+Other programs building the Bitcoin developer pipeline globally:
+
+| Program | Region | What They Do |
+|---------|--------|-------------|
+| [Bitshala](https://bitshala.org/fellowship/) | India | Dev/design/education fellowships, Bitspace co-working in Bangalore |
+| [Brink](https://brink.dev/programs) | London | Year-long Bitcoin Core fellowships + grants |
+| [Btrust Builders](https://www.btrust.tech/grants/developer) | Africa | Developer training pathways + starter grants |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Global (remote) | University students, 3-month dev/design program |
+| [Chaincode BOSS](https://learning.chaincode.com/) | Global (remote) | Self-guided Bitcoin Core / Lightning challenge |
+| [Crack the Orange](https://my.cracktheorange.com/) | Global South | Year-long Bitcoin education course for community builders |
+| [Libreria de Satoshi](https://libreriadesatoshi.com/) | Latin America | Spanish-language dev education + B4OS residencies |
+
+We're the first program serving Southeast Asia.
+
+---
+
+## What a Fellowship Actually Looks Like
+
+Vague proposals don't get accepted. Here's what real fellowship work plans look like:
+
+### Example Developer Fellow: Silent Payments Focus
+
+**Project:** rust-silentpayments + Bitcoin Core SP support
+**6-month targets:**
+- Month 1: Add 15+ test cases covering BIP352 edge cases (mixed input types, label collision, multiple recipients)
+- Month 2: Implement label management module in rust-silentpayments
+- Month 3: Optimize scanning performance — benchmark and improve tweak cache
+- Month 4-5: Submit 2+ PRs to Bitcoin Core #28122 (testing, review, or code)
+- Month 6: Write integration guide for wallet developers adopting Silent Payments
+- **Total expected: 8+ PRs merged, 1 published guide**
+
+### Example Developer Fellow: Payjoin Focus
+
+**Project:** rust-payjoin / Payjoin Dev Kit
+**6-month targets:**
+- Month 1: Add BIP77 (async Payjoin) integration tests for relay failure scenarios
+- Month 2-3: Implement Payjoin sender support in a wallet that doesn't have it (BDK-based)
+- Month 4: Submit 2+ PRs to rust-payjoin improving error handling and documentation
+- Month 5: Write "Adding Payjoin to Your Wallet" tutorial for PDK
+- Month 6: Help onboard the next Privacy Track cohort to Payjoin concepts
+- **Total expected: 6+ PRs merged, 1 wallet integration, 1 published tutorial**
+
+### Example Developer Fellow: Light Client Privacy
+
+**Project:** Floresta / Kyoto
+**6-month targets:**
+- Month 1: Fix 3+ open issues in Floresta labeled "good first issue"
+- Month 2-3: Implement compact block filter caching optimization in Kyoto
+- Month 4: Add Silent Payments scanning support to Kyoto using CBF
+- Month 5-6: Benchmark privacy properties of Floresta vs Kyoto vs full node, publish results
+- **Total expected: 8+ PRs merged, 1 published benchmark**
+
+### Example Educator Fellow: Privacy Track Facilitator — Chiang Mai
+
+**Initiative:** Run the 24-session Privacy Track in Chiang Mai, Thailand
+**6-month targets:**
+- Month 1: Recruit 15+ participants. Host sessions 1-2 (Foundations)
+- Month 2: Host sessions 3-4. Ensure every participant has filed their first GitHub issue
+- Month 3: Host sessions 5-6 (Silent Payments). Track participant PRs
+- Month 4: Host sessions 7-8. Mid-term review — at least 5 participants have submitted PRs
+- Month 5: Host sessions 9-10 (Payjoin). Begin training successor facilitator
+- Month 6: Host sessions 11-12. Hand off to trained successor. Present cohort results
+- **Total expected: 12 sessions hosted, 15+ participants, 20+ PRs from participants, 1 trained successor**
+
+---
+
+## Expected Output Per Fellow
+
+| Fellow Type | Duration | PRs Merged | Cost | Cost per PR |
+|-------------|----------|-----------|------|-------------|
+| Developer (full-time) | 6 months | 8+ | $3,000 | ~$375 |
+| Developer (part-time) | 6 months | 6+ | $3,000 | ~$500 |
+| Educator | 6 months | 20+ (from participants) | $1,500 | ~$75 |
+
+Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
+
+---
+
 ## Alumni
 
-*(First cohort launching soon. This section will be filled with real people and real PRs.)*
+*(First cohort launching H2 2026. This section will be filled with real people and real PRs.)*
 
 ---
 
