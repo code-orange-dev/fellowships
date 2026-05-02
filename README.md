@@ -182,9 +182,9 @@ Vague proposals don't get accepted. Here's what real fellowship work plans look 
 - Month 5-6: Benchmark privacy properties of Floresta vs Kyoto vs full node, publish results
 - **Total expected: 8+ PRs merged, 1 published benchmark**
 
-### Example Educator Fellow: Privacy Track Facilitator — Chiang Mai
+### Example Educator Fellow: Privacy Track Facilitator
 
-**Initiative:** Run the 24-session Privacy Track in Chiang Mai, Thailand
+**Initiative:** Run the 24-session Privacy Track
 **6-month targets:**
 - Month 1: Recruit 15+ participants. Host sessions 1-2 (Foundations)
 - Month 2: Host sessions 3-4. Ensure every participant has filed their first GitHub issue
