@@ -146,24 +146,6 @@ Two cohorts per year:
 
 ---
 
-## Who's Done This Before
-
-Other programs building the Bitcoin developer pipeline globally:
-
-| Program | Region | What They Do |
-|---------|--------|-------------|
-| [Bitshala](https://bitshala.org/fellowship/) | India | Dev/design/education fellowships, Bitspace co-working in Bangalore |
-| [Brink](https://brink.dev/programs) | London | Year-long Bitcoin Core fellowships + grants |
-| [Btrust Builders](https://www.btrust.tech/grants/developer) | Africa | Developer training pathways + starter grants |
-| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Global (remote) | University students, 3-month dev/design program |
-| [Chaincode BOSS](https://learning.chaincode.com/) | Global (remote) | Self-guided Bitcoin Core / Lightning challenge |
-| [Crack the Orange](https://my.cracktheorange.com/) | Global South | Year-long Bitcoin education course for community builders |
-| [Libreria de Satoshi](https://libreriadesatoshi.com/) | Latin America | Spanish-language dev education + B4OS residencies |
-
-We're the first program serving Southeast Asia.
-
----
-
 ## What a Fellowship Actually Looks Like
 
 Vague proposals don't get accepted. Here's what real fellowship work plans look like:
