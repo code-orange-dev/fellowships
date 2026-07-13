@@ -1,6 +1,6 @@
 # Code Orange Fellowship
 
-> Ship code. Grow builders. Make Bitcoin more private — from Southeast Asia.
+> Ship code. Grow builders. Make Bitcoin more private - from Southeast Asia.
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-orange.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -48,11 +48,11 @@ The fellowship bridges the gap between "I finished a cohort" and "I have a track
 
 ## What Makes This Different
 
-**We're not an online-only program.** Fellows can work from our Bali hub — a physical space where Bitcoin developers show up, build together, and learn from each other in person. Remote participation works too, but the IRL component is what accelerates learning.
+**We're not an online-only program.** Fellows can work from our Bali hub - a physical space where Bitcoin developers show up, build together, and learn from each other in person. Remote participation works too, but the IRL component is what accelerates learning.
 
 **We're privacy-focused.** Our curriculum emphasizes Silent Payments, Payjoin, compact block filters, and wallet privacy. This aligns with where the protocol is headed and where the funding is going (OpenSats explicitly prioritizes base-layer privacy work).
 
-**We grow our own.** Most fellowship applicants come through our cohorts. By the time someone applies, they've already spent 7-12 weeks building technical Bitcoin skills with us. We know their work. They know our culture. The fellowship isn't a cold start — it's the next step.
+**We grow our own.** Most fellowship applicants come through our cohorts. By the time someone applies, they've already spent 7-12 weeks building technical Bitcoin skills with us. We know their work. They know our culture. The fellowship isn't a cold start - it's the next step.
 
 **Education is not an afterthought.** We fund educators with the same seriousness as developers. The developer pipeline only works if someone is running the workshops and cohorts at the front of it. Educators make everything else possible.
 
@@ -83,7 +83,7 @@ Working on something else? Propose it. If it's Bitcoin FOSS, we'll consider it.
 
 ### 1. Apply
 
-No forms. Send us your proposal — what you want to work on and why. Templates are in [`templates/`](templates/).
+No forms. Send us your proposal - what you want to work on and why. Templates are in [`templates/`](templates/).
 
 **Developer Track:** Start contributing to your chosen project first (even a small PR), then send your 6-month work plan with a maintainer endorsement.
 
@@ -126,10 +126,10 @@ Present your work to the community. Document everything. Apply for grants to kee
 | Metric | Per Developer Fellow (6mo) | Per Educator Fellow (6mo) |
 |--------|---------------------------|--------------------------|
 | Total cost | $3,000 | $1,500 |
-| Expected PRs merged | 6+ | — |
-| Expected events hosted | — | 24+ |
-| Expected participants reached | — | 30+ |
-| Cost per merged PR | ~$500 | — |
+| Expected PRs merged | 6+ | - |
+| Expected events hosted | - | 24+ |
+| Expected participants reached | - | 30+ |
+| Cost per merged PR | ~$500 | - |
 
 Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
 
@@ -156,7 +156,7 @@ Vague proposals don't get accepted. Here's what real fellowship work plans look 
 **6-month targets:**
 - Month 1: Add 15+ test cases covering BIP352 edge cases (mixed input types, label collision, multiple recipients)
 - Month 2: Implement label management module in rust-silentpayments
-- Month 3: Optimize scanning performance — benchmark and improve tweak cache
+- Month 3: Optimize scanning performance - benchmark and improve tweak cache
 - Month 4-5: Submit 2+ PRs to Bitcoin Core #28122 (testing, review, or code)
 - Month 6: Write integration guide for wallet developers adopting Silent Payments
 - **Total expected: 8+ PRs merged, 1 published guide**
@@ -189,7 +189,7 @@ Vague proposals don't get accepted. Here's what real fellowship work plans look 
 - Month 1: Recruit 15+ participants. Host sessions 1-2 (Foundations)
 - Month 2: Host sessions 3-4. Ensure every participant has filed their first GitHub issue
 - Month 3: Host sessions 5-6 (Silent Payments). Track participant PRs
-- Month 4: Host sessions 7-8. Mid-term review — at least 5 participants have submitted PRs
+- Month 4: Host sessions 7-8. Mid-term review - at least 5 participants have submitted PRs
 - Month 5: Host sessions 9-10 (Payjoin). Begin training successor facilitator
 - Month 6: Host sessions 11-12. Hand off to trained successor. Present cohort results
 - **Total expected: 12 sessions hosted, 15+ participants, 20+ PRs from participants, 1 trained successor**

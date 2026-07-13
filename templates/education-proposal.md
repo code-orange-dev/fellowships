@@ -1,6 +1,6 @@
 # Educator Fellowship Proposal
 
-> Email this to fellowship@codeorange.dev — subject: "Educator Fellowship — [Your Name]"
+> Email this to fellowship@codeorange.dev - subject: "Educator Fellowship - [Your Name]"
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## About You
 
-Who are you? How did you get into Bitcoin? What's your technical knowledge level? What teaching or facilitation experience do you have — formal or informal?
+Who are you? How did you get into Bitcoin? What's your technical knowledge level? What teaching or facilitation experience do you have - formal or informal?
 
 ---
 
@@ -32,7 +32,7 @@ Any Bitcoin education work you've done before: workshops hosted, cohorts TA'd, c
 
 **Format:** Cohort / Club / IRL Events / Content / Mix
 
-**Title:** (e.g., "Bitcoin Dojo Cohort 3 — Bali" or "Monthly Sovereign Bitcoiner Workshops — Chiang Mai")
+**Title:** (e.g., "Bitcoin Dojo Cohort 3 - Bali" or "Monthly Sovereign Bitcoiner Workshops - Chiang Mai")
 
 **Audience:** Who shows up? (developers, students, beginners, local community)
 

@@ -1,6 +1,6 @@
 # Contributing to Code Orange Dev School
 
-Thanks for your interest in contributing! Code Orange is a Bitcoin-only, open-source developer education program. Everything we publish is **CC0 (public domain)** — free to use, fork, translate, and teach.
+Thanks for your interest in contributing! Code Orange is a Bitcoin-only, open-source developer education program. Everything we publish is **CC0 (public domain)** - free to use, fork, translate, and teach.
 
 There are two ways to contribute, depending on whether you're improving **our materials** or contributing to **upstream Bitcoin projects** through our program.
 
@@ -11,9 +11,9 @@ There are two ways to contribute, depending on whether you're improving **our ma
 Curriculum fixes, typo corrections, translations, new exercises, better explanations, and slide improvements are all welcome.
 
 1. **Fork** the repo and create a branch: `git checkout -b fix/short-description`
-2. **Make your change.** Keep it focused — one logical change per pull request.
+2. **Make your change.** Keep it focused - one logical change per pull request.
 3. **Open a pull request** with a clear title and a sentence on what changed and why.
-4. A maintainer will review. Expect friendly feedback and possibly a request for changes — that's a normal part of contributing.
+4. A maintainer will review. Expect friendly feedback and possibly a request for changes - that's a normal part of contributing.
 
 Good first contributions: fixing a typo, clarifying a confusing instruction, translating a lesson, adding a missing link, or improving a diagram.
 
@@ -21,16 +21,16 @@ Good first contributions: fixing a typo, clarifying a confusing instruction, tra
 
 ## 2. Contributing to upstream Bitcoin projects through our program
 
-This is the heart of what we do — guiding developers to real, merged contributions to projects like Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, Floresta, Kyoto, LDK, and Silent Payments tooling.
+This is the heart of what we do - guiding developers to real, merged contributions to projects like Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, Floresta, Kyoto, LDK, and Silent Payments tooling.
 
 **The path:**
 
 1. **Join our [Discord](https://discord.gg/xd6dmPF9bA)** and introduce yourself in the dev channels.
 2. **Pick a study cohort** that fits your level:
-   - [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) — cryptographic primitives from scratch
-   - [rawBit](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) — build raw transactions
-   - [Decoding Bitcoin](https://github.com/code-orange-dev/curriculum/tree/main/decoding-bitcoin) — Core contribution workflows
-   - [Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) — base-layer privacy, contribution-first
+   - [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) - cryptographic primitives from scratch
+   - [rawBit](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) - build raw transactions
+   - [Decoding Bitcoin](https://github.com/code-orange-dev/curriculum/tree/main/decoding-bitcoin) - Core contribution workflows
+   - [Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) - base-layer privacy, contribution-first
 3. **Pick a good-first-issue** from a real project and open a PR.
 4. **Log it** so it shows up on our [PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard).
 

@@ -6,7 +6,7 @@
 
 ## Who This Is For
 
-You've done the learning. You've completed a Bitcoin dev cohort — Code Orange, Chaincode, Summer of Bitcoin, or your own deep self-study. You can read a codebase, write tests, and open a PR. What you need now is sustained focus, guidance from someone who's been doing this, and enough financial runway to actually spend your time on open source instead of freelance gigs.
+You've done the learning. You've completed a Bitcoin dev cohort - Code Orange, Chaincode, Summer of Bitcoin, or your own deep self-study. You can read a codebase, write tests, and open a PR. What you need now is sustained focus, guidance from someone who's been doing this, and enough financial runway to actually spend your time on open source instead of freelance gigs.
 
 That's what this is.
 
@@ -16,13 +16,13 @@ That's what this is.
 
 There's no classroom. You're an open-source contributor working on a real project, with structure around you to keep you moving.
 
-**Monday:** Plan the week — which issues to tackle, which PRs need attention.
+**Monday:** Plan the week - which issues to tackle, which PRs need attention.
 
 **Tuesday-Thursday:** Write code. Read code. Push code. The bulk of your time is heads-down contribution to your project.
 
 **Wednesday:** 30-60 minute call with your mentor. Discuss architecture, review strategy, debug together, talk through what's blocking you.
 
-**Friday:** Review day. Read and comment on at least one PR from another contributor. Code review is half the job in Bitcoin FOSS — it's how you build reputation and understand the codebase.
+**Friday:** Review day. Read and comment on at least one PR from another contributor. Code review is half the job in Bitcoin FOSS - it's how you build reputation and understand the codebase.
 
 **Saturday (optional):** Drop into the Code Orange weekly session in Bali, or join remotely. Present what you're working on. Get feedback from peers.
 
@@ -30,23 +30,23 @@ There's no classroom. You're an open-source contributor working on a real projec
 
 ## The 6-Month Arc
 
-### Month 1 — Get Set Up
+### Month 1 - Get Set Up
 
-Your dev environment works. Tests pass. You've introduced yourself to the project community. You've read enough recent PRs to understand the codebase conventions. You've submitted your first PR — it can be small. The point is to break the ice and learn the contribution workflow.
+Your dev environment works. Tests pass. You've introduced yourself to the project community. You've read enough recent PRs to understand the codebase conventions. You've submitted your first PR - it can be small. The point is to break the ice and learn the contribution workflow.
 
 Deliverable: Refined 6-month work plan with your mentor.
 
-### Months 2-3 — Find Your Groove
+### Months 2-3 - Find Your Groove
 
 You're shipping regularly now. At least 2 PRs per month, with at least one tackling real functionality (not just docs or typos). You're reviewing others' code. You're showing up in project discussions. Your mentor knows you're serious.
 
-Deliverable: Mid-term review at end of Month 3 — honest assessment of progress and course correction if needed.
+Deliverable: Mid-term review at end of Month 3 - honest assessment of progress and course correction if needed.
 
-### Months 4-5 — Go Deep
+### Months 4-5 - Go Deep
 
 Take on something substantial. A feature. A significant refactor. A complex bug. This is where you prove you can handle the hard stuff, not just the edges. Collaborate with other project contributors. Start becoming a peer, not just a newcomer.
 
-### Month 6 — Land It
+### Month 6 - Land It
 
 Wrap up outstanding PRs. Document your work so the next person can pick up where you left off. Present to the Code Orange community. Most importantly: submit at least one grant application (OpenSats, HRF, Spiral) so you can keep going after the fellowship ends.
 
@@ -54,25 +54,25 @@ Wrap up outstanding PRs. Document your work so the next person can pick up where
 
 ## Where You'll Contribute
 
-Our focus is **privacy and wallet infrastructure** — that's where Code Orange has built the deepest curriculum and where the ecosystem needs the most help. But we support any Bitcoin FOSS contribution.
+Our focus is **privacy and wallet infrastructure** - that's where Code Orange has built the deepest curriculum and where the ecosystem needs the most help. But we support any Bitcoin FOSS contribution.
 
 **Privacy (our sweet spot):**
-- [rust-silentpayments](https://github.com/cygnet3/rust-silentpayments) — BIP352 library in Rust
-- [payjoin-rust](https://github.com/payjoin/rust-payjoin) — Payjoin Dev Kit (BIP77/78)
-- [Coinswap](https://github.com/citadel-tech/coinswap) — CoinSwap protocol implementation
-- [Kyoto](https://github.com/rustaceanrob/kyoto) — Compact block filter light client
+- [rust-silentpayments](https://github.com/cygnet3/rust-silentpayments) - BIP352 library in Rust
+- [payjoin-rust](https://github.com/payjoin/rust-payjoin) - Payjoin Dev Kit (BIP77/78)
+- [Coinswap](https://github.com/citadel-tech/coinswap) - CoinSwap protocol implementation
+- [Kyoto](https://github.com/rustaceanrob/kyoto) - Compact block filter light client
 
 **Wallets and infrastructure:**
-- [BDK](https://github.com/bitcoindevkit/bdk) — Bitcoin Development Kit
-- [Floresta](https://github.com/Davidson-Souza/Floresta) — Utreexo full node
-- [BTCPay Server](https://github.com/btcpayserver/btcpayserver) — Merchant payments
+- [BDK](https://github.com/bitcoindevkit/bdk) - Bitcoin Development Kit
+- [Floresta](https://github.com/Davidson-Souza/Floresta) - Utreexo full node
+- [BTCPay Server](https://github.com/btcpayserver/btcpayserver) - Merchant payments
 
 **Protocol:**
-- [Bitcoin Core](https://github.com/bitcoin/bitcoin) — The reference implementation
-- [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) — Core Bitcoin primitives
-- [LDK](https://github.com/lightningdevkit/rust-lightning) — Lightning Development Kit
+- [Bitcoin Core](https://github.com/bitcoin/bitcoin) - The reference implementation
+- [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Core Bitcoin primitives
+- [LDK](https://github.com/lightningdevkit/rust-lightning) - Lightning Development Kit
 
-**Something else?** If it's Bitcoin, it's open source, and you have a maintainer willing to vouch for your work plan — we'll consider it.
+**Something else?** If it's Bitcoin, it's open source, and you have a maintainer willing to vouch for your work plan - we'll consider it.
 
 ---
 
@@ -80,7 +80,7 @@ Our focus is **privacy and wallet infrastructure** — that's where Code Orange 
 
 Every developer fellow gets a mentor: someone who actively contributes to the project you're working on (or one closely related). They commit to a weekly call and timely PR reviews for the full 6 months.
 
-We find mentors through our network of Bitcoin FOSS contributors, past guest speakers, and the broader community. If you already have a relationship with a project maintainer, include that in your application — it strengthens your case significantly.
+We find mentors through our network of Bitcoin FOSS contributors, past guest speakers, and the broader community. If you already have a relationship with a project maintainer, include that in your application - it strengthens your case significantly.
 
 ---
 
@@ -116,7 +116,7 @@ Some fellows will get grants and go full-time on FOSS. Some will join Bitcoin co
 
 2. **Write your proposal.** Use the [developer proposal template](../templates/developer-proposal.md). Include a 6-month work plan with monthly milestones and a maintainer endorsement.
 
-3. **Send it.** Email fellowship@codeorange.dev with subject "Developer Fellowship — [Your Name]"
+3. **Send it.** Email fellowship@codeorange.dev with subject "Developer Fellowship - [Your Name]"
 
 We review on a rolling basis. Expect a response within 2 weeks.
 

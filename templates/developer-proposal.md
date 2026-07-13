@@ -1,6 +1,6 @@
 # Developer Fellowship Proposal
 
-> Email this to fellowship@codeorange.dev — subject: "Developer Fellowship — [Your Name]"
+> Email this to fellowship@codeorange.dev - subject: "Developer Fellowship - [Your Name]"
 
 ---
 
@@ -26,10 +26,10 @@ Who are you? What do you build? What Bitcoin dev courses or programs have you be
 
 ## What You've Already Done
 
-Link your existing contributions to the project (or related projects). If you haven't contributed yet, describe what you've done to understand the codebase — which PRs you've read, which issues you've explored, what you've built locally.
+Link your existing contributions to the project (or related projects). If you haven't contributed yet, describe what you've done to understand the codebase - which PRs you've read, which issues you've explored, what you've built locally.
 
-- [Link](url) — what it is
-- [Link](url) — what it is
+- [Link](url) - what it is
+- [Link](url) - what it is
 
 ---
 
@@ -45,7 +45,7 @@ Link your existing contributions to the project (or related projects). If you ha
 
 ## 6-Month Plan
 
-Break it down month by month. Be specific — "improve test coverage" is vague, "add integration tests for the V2 receive flow covering timeout and retry cases" is real.
+Break it down month by month. Be specific - "improve test coverage" is vague, "add integration tests for the V2 receive flow covering timeout and retry cases" is real.
 
 **Month 1:**
 **Month 2:**

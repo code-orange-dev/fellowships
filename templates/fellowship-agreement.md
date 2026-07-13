@@ -8,8 +8,8 @@ This Agreement is between **Code Orange Dev School** ("Code Orange") and **[Fell
 
 The Fellow will contribute to Code Orange in the following capacity:
 
-- [ ] Developer Track — Contributing to [Project Name]
-- [ ] Educator Track — [Initiative Description]
+- [ ] Developer Track - Contributing to [Project Name]
+- [ ] Educator Track - [Initiative Description]
 
 The specific scope of work is defined in the Fellow's approved proposal, attached as Exhibit A.
 
@@ -64,7 +64,7 @@ All code, content, and materials produced during the fellowship must be open sou
 
 ---
 
-## Exhibit A — Statement of Work
+## Exhibit A - Statement of Work
 
 *(Fellow's approved proposal attached here)*
 

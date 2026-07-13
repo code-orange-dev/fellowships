@@ -23,10 +23,10 @@
 ## Developer Track
 
 **PRs Merged:**
-- [Title](link) — one-line description
+- [Title](link) - one-line description
 
 **PRs Open:**
-- [Title](link) — status
+- [Title](link) - status
 
 **PRs Reviewed:**
 - [Title](link)
