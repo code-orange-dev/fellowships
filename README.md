@@ -109,6 +109,12 @@ Present your work to the community. Document everything. Apply for grants to kee
 
 ---
 
+## Operating System
+
+Fellowship seats are limited by verified mentor capacity, not by the number of applications. The reusable [Fellowship Operating System](OPERATING_SYSTEM.md) defines eligibility, the selection rubric, mentor commitments, the Month-3 continuation review, and the alumni handoff.
+
+---
+
 ## The Numbers
 
 ### For Fellows
