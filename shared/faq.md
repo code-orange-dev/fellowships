@@ -1,121 +1,79 @@
 # Fellowship FAQ
 
-Missing question? [Open an issue](https://github.com/code-orange-dev/code-orange-dev/issues) and we will add it.
+## Who can apply?
 
----
+**Do I need to live in Bali?**
 
-## Eligibility
+No. The fellowship is remote-capable and Southeast Asia-based applicants receive priority. Bali hub access is available only where it is practical. A remote applicant needs a strong project, community, or underrepresented-language fit.
 
-**Do I need to be in Bali, or Asia?**
-No. Both fellowships are remote-friendly and our community already spans 8 countries - Indonesia, India, Romania, Nigeria, Kenya, Zambia, Brazil and South Korea. For the Educator track, what matters is that you have a community to teach, wherever it is.
+**Do I need to be a developer to become an educator fellow?**
 
-**Do I need to be a developer for the Educator Fellowship?**
-No, and this is the most common misconception. You need to be a curious Bitcoiner who prepares properly and is honest about the limits of what you know. The best facilitators are often one step ahead of the room, not ten - they still remember what confusion feels like. See the [facilitation playbook](../educator-fellowship/facilitation-playbook.md).
+No. You need to prepare carefully, name your teaching limits, and serve a real community. Read the [facilitation playbook](../educator-fellowship/facilitation-playbook.md).
 
-**Can I apply for both?**
-Yes, but not at full load. Realistically: full Developer Fellowship plus 2-4 educator credits a month, or full Educator plus light contribution work. Say so in your application and we will size it together.
+**I have never opened a pull request. Can I apply as a developer?**
 
-**I have never opened a pull request.**
-Educator: fine, apply, we will teach you. Developer: do a [cohort](https://github.com/code-orange-dev/curriculum) first. [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) or [Decoding Bitcoin](https://github.com/code-orange-dev/curriculum/tree/main/decoding-bitcoin) are the usual on-ramps, and cohort graduates are exactly who we want applying.
+Possibly. First make a real attempt with your chosen project—build it, run tests, read a module, reproduce an issue, or contribute something small. A Code Orange or equivalent cohort is often the best on-ramp. We want evidence of readiness, not a ceremonial PR.
 
-**Is there an age limit?**
-No. If you are under 18, tell us so we can be sensible about it.
+**Can I apply for both tracks?**
 
-**English is not my first language.**
-Not a problem, and non-English cohorts are actively wanted. Bahasa Indonesia, Hindi, Portuguese, Swahili, Korean - reaching people in their own language is the point. Applications in imperfect English are completely fine; we care what you say, not how polished it is.
+Yes, but not at two full workloads. Explain how you would keep the commitment realistic.
 
-**I have a full-time job.**
-Educator: very doable at 8-12 hours a week. Developer: 15-20 hours a week on top of full-time work is hard for six months. Be honest with yourself, and tell us your real availability.
+**Is English required?**
 
----
+No. Local-language teaching, translation, and imperfect English applications are welcome.
 
-## Money
+## What does it pay?
 
-**$256 or $512 a month is not much.**
-Correct, and we would rather say so than pretend otherwise. Both are deliberately part-time supplementary income, sized so that running a cohort or learning a codebase is not a financial sacrifice. Neither is a salary and neither can replace one. What compounds is the public record, the network and the path to direct funding from [OpenSats](https://opensats.org/), [HRF](https://hrf.org/program/financial-freedom/bitcoin-development-fund/) or [Btrust](https://www.btrust.tech/) - where the numbers are much larger.
+Developer fellows receive **$512/month** and educator fellows **$256/month**, denominated in USD and paid in Bitcoin under a signed agreement. This is a fellowship stipend, not a salary or employment relationship. See [payment and reporting](payment-and-reporting.md).
 
-**Paid in Bitcoin - what if the price moves?**
-The obligation is denominated in USD. If the amount is $512, you receive $512 worth at the time of payment. Rate moves before or after are yours.
+**Can I choose Lightning, on-chain, or eCash?**
 
-**How do I get paid - Lightning, on-chain, or eCash?**
-Your choice, and you can switch month to month. Tell us before the 5th and it applies to that payment. On-chain is the boring reliable default; Lightning needs enough inbound liquidity to receive the full amount in one payment; eCash is practical regionally but means trusting the federation's guardians. Details in [payment and reporting](./payment-and-reporting.md).
+Yes. Payment routing is agreed privately after acceptance. Never publish an address in an application, report, or issue.
 
-**What if I miss the credit target?**
-Read [payment and reporting](./payment-and-reporting.md) in full. Short version: credits average quarterly, flagged short months are a non-event, and we do not dock pay for an honest bad month.
+**What if I receive another grant?**
 
-**Is this employment?**
-No. It is a fellowship stipend. You are not an employee, there are no benefits, and your tax situation is yours.
+Tell us. If it covers the same work, we will discuss a fair adjustment so the fellowship support can reach others; it is not an automatic penalty.
 
-**Can I keep the stipend if I get a grant elsewhere?**
-Tell us and we will work it out. If you land direct funding that covers the same work, we would rather move the stipend to someone who needs it - but that is a conversation, not an automatic cut. Getting funded elsewhere is the program succeeding.
+## What if work does not go to plan?
 
----
+**What if an upstream PR is not merged?**
 
-## The work
+That is normal. We assess the quality and continuity of your contribution—tests, research, review, discussions, documentation, and PRs—not merges alone.
 
-**What if nobody comes to my sessions?**
-Happens to everyone, and it is a format or timing problem, not a character flaw. Log it, report it honestly, and we work out what to change together. A fellow who reports three empty sessions and diagnoses why is doing the job correctly.
+**What if nobody comes to a session?**
 
-**What if my PR never gets merged?**
-Also common, especially in Bitcoin Core where PRs can sit for a year. You are assessed on contribution behaviour - quality of work, review given, engagement - not merge counts alone.
+Log it, explain what you learned, and adjust. A documented empty session is more useful than pretending it did not happen.
 
-**Can I switch projects mid-fellowship?**
-Yes. The month-3 checkpoint exists partly for this and there is no penalty. Discovering LDK is too deep is a useful result, not a failure.
+**Can I change projects or format?**
 
-**Can I run a cohort that is not in the Code Orange curriculum?**
-Yes. Run [Chaincode](https://chaincode.com/) material, [Bitshala](https://bitshala.org/cohorts/) content, [Base58](https://base58.school/), or something you wrote. If you write your own, we ask that it goes into the [curriculum repo](https://github.com/code-orange-dev/curriculum) under CC0 so the next facilitator does not start from scratch.
+Yes. Discuss it early with your mentor or program lead, write a smaller replacement plan, and confirm the change. Month 3 is a natural review point, not the only time a change is allowed.
 
-**Do I have to use Discord?**
-Yes for coordination - standups, the train-the-trainer call, `#fellowships`. Your own community can live wherever it already is: WhatsApp, Telegram, Signal, in person.
+**Can I pause?**
 
-**What if I need hardware?**
-Ask. BitAxes, SeedSigners, hardware wallets - put it in the blockers section of your report. We cannot always fund it but we can often find it.
+Yes, for up to two months without penalty. Tell us early if possible; no stipend is paid during the pause and the fellowship term extends accordingly.
 
----
+## How private is reporting?
 
-## Public reporting
+**Must everything be public?**
 
-**Does everything really have to be public?**
-Reports and logs, yes. It is the credential - a verifiable record is what makes a reference from us worth anything.
+No. Public proof of work is valuable, but safety comes first. Reports, links, and material can be public or private under an agreed arrangement. Never publish participant names, payment information, or location details that create risk.
 
-**I do not want participants' names public.**
-Do not publish them. Handles, initials, or counts alone are all fine. Never photograph anyone without asking, every time.
+**Can I publish curriculum I create?**
 
-**Being publicly associated with Bitcoin is risky where I live.**
-Tell us. We will arrange private reporting. This is a real concern in several places our community spans and it counts against you in no way at all.
+Yes—please do when safe. Code Orange materials are CC0; for work in another project, follow that project’s license and contribution rules.
 
----
+## How does applying work?
 
-## Applying
+Read [How to Apply](../APPLY.md), copy the relevant application template, and email it to **fellowship@codeorange.dev**. We aim to acknowledge or respond within two weeks, depending on capacity. A delay is not an expectation of unpaid fellowship work.
 
-**How long does it take?**
-Response within 14 days. Shortlisted applicants get a 30-minute call. Decision within 30 days of applying.
+**Can I use AI to draft an application?**
 
-**How many fellowships are available?**
-Depends on funding. We would rather run two well-supported fellowships than six underfunded ones.
+Use tools responsibly, but the application needs to reflect your own experience, intent, and availability. We will assess the evidence and your understanding in follow-up conversation.
 
-**I applied and was declined. Can I reapply?**
-Yes, and people do. Ask what would strengthen the application - we will tell you specifically. The most common answer for developers is "complete a cohort and open one PR anywhere", and applicants who come back having done that usually get in.
+**Why might an application not move forward?**
 
-**Can I use AI to write my application?**
-We would rather you did not, and we can tell. Four hundred rough honest words beat a polished generated essay, and reading a generated application is the fastest route to a decline. Using AI as a coding tool during the fellowship is entirely fine - it is a normal part of the work now.
+Usually because the plan is too broad, the required time is not available, there is no clear project/community fit, or mentor capacity is not available. A declined application is not a judgment of potential; ask for a useful next step and reapply when it is real.
 
-**What is the single biggest reason people get declined?**
-Educator: no realistic access to a community. Enthusiasm without anyone to teach is the most common gap.
-Developer: no code to look at. We are not strict about quality, but we need something.
+## Where can I ask questions?
 
----
-
-## The program
-
-**Why does Code Orange run fellowships instead of just grants?**
-Grants fund people who are already contributing. Fellowships fund the six months *before* that, which is exactly where people drop out. We want to catch them earlier.
-
-**How is this different from Btrust or Summer of Bitcoin?**
-It is smaller, regional, and runs both an educator and a developer track through the same community, so graduates of one feed the other. We are also explicitly a feeder - if [Btrust](https://www.btrust.tech/), [Chaincode](https://chaincode.com/) or [Summer of Bitcoin](https://www.summerofbitcoin.org/) takes one of our fellows, that is the system working.
-
-**Can my organisation fund a fellowship?**
-Yes. Sponsoring a named fellow, or a regional hub, is the most direct way to grow the Bitcoin developer pipeline in Southeast Asia. Get in touch via [Discord](https://discord.gg/xd6dmPF9bA) or [@codeorangedevs](https://x.com/codeorangedevs).
-
-**We run a similar program and want to compare notes.**
-Please do - open an issue. We stole liberally from the programs listed in the [fellowships README](../README.md) and are happy to return the favour.
+Email **fellowship@codeorange.dev** or ask in the [Code Orange Discord](https://discord.gg/xd6dmPF9bA). For conduct concerns, use the reporting channel in the [Code of Conduct](../CODE_OF_CONDUCT.md).

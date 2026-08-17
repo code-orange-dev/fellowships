@@ -20,29 +20,37 @@ Do not accept a fellow until one primary mentor, one fallback contact, and a pro
 - Southeast Asia-based applicants receive priority; remote applicants need a strong underrepresented-community or project-fit case.
 - Completion of a Code Orange technical cohort or equivalent evidence of Bitcoin development study.
 - A reproducible local development environment and a scoped six-month plan for a Bitcoin OSS project.
-- At least one upstream PR submitted by the fellowship start date. An application may be reviewed provisionally before that point, but no seat is awarded without the evidence.
+- A real first attempt with the target project: build it, run tests, read a relevant module, reproduce an issue, or submit a contribution. An upstream PR is strong evidence and expected before the start when it is a reasonable next step, but it is not a proxy for quality or the only route to readiness.
 - A named mentor fit and, where possible, a project maintainer or contributor endorsement.
 - Realistic availability: 15-20 hours per week part-time or 35+ hours full-time.
+
+### Educator fellowship minimum eligibility
+
+- Southeast Asia-based applicants receive priority; remote applicants need a strong community or underrepresented-language case.
+- A named audience or community, realistic recruitment path, and a first session, event, or content plan.
+- Honest teaching boundaries: what the applicant can teach confidently, where preparation is needed, and when expert support is required.
+- Evidence of facilitation, community care, teaching, writing, translation, or organizing—or a credible first delivery plan when formal experience is limited.
+- Realistic availability of 10-15 hours each week and a format that can be sustained for six months.
 
 ### Selection rubric (100 points)
 
 | Criterion | Points | Evidence |
 | --- | ---: | --- |
-| Upstream contribution evidence and code-reading ability | 30 | Linked PRs, reviews, issues, test work, or a walkthrough of the target codebase |
-| Project fit and public value | 25 | Priority for privacy, wallet, and related Bitcoin infrastructure; a concrete user or protocol problem |
+| Evidence of readiness | 30 | Developer: PRs, reviews, test work, or a walkthrough of the target codebase. Educator: delivered sessions/materials or a grounded launch plan. |
+| Project or community fit and public value | 25 | Developer: a concrete Bitcoin OSS problem. Educator: a concrete audience, learning need, and sustainable delivery format. |
 | Six-month scope and milestones | 20 | Deliverables sized for upstream feedback rather than a PR-count target |
-| Mentor and maintainer fit | 15 | Confirmed primary mentor, fallback, and relevant project relationship |
+| Mentor and program fit | 15 | Confirmed primary mentor/program lead, fallback contact, and relevant maintainer or community relationship |
 | Community reciprocity and regional impact | 10 | Peer support, workshop help, documentation, or a credible Southeast Asia knowledge-sharing plan |
 
-Record the evidence, total, decision, and reviewer in the cohort record. Do not select on promise alone.
+Record the evidence, total, decision, reviewer, and capacity check using the [application review template](templates/application-review.md). Track active seats with the [cohort dashboard](templates/cohort-dashboard.md). Do not select on promise alone. Do not record sensitive applicant data in a public repository.
 
 ## 3. Evidence of Progress
 
 | Rhythm | Fellow supplies | Mentor / program supplies |
 | --- | --- | --- |
-| Weekly | One public link or reproducible artifact, blocker, and next action | Check-in note and an explicit unblock or escalation |
+| Weekly | One public link or safely shareable artifact, blocker, and next action | Check-in note and an explicit unblock or escalation |
 | Bi-weekly | Short peer demo or written progress update | Cohort feedback and connection to another contributor where useful |
-| Monthly | Existing [monthly report](templates/monthly-report.md): PRs, reviews, issues, outcomes, blockers, next month | Review against the agreed work plan; update status green / yellow / red |
+| Monthly | [Monthly update](templates/monthly-report.md): evidence, outcomes, blockers, and next month | Review against the agreed work plan; update status green / yellow / red |
 
 Count meaningful upstream work: tests, benchmarks, design discussion, code review, issues, and PRs. Merges are important lagging evidence, but should not create pressure for low-value PR volume.
 

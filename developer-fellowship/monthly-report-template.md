@@ -1,133 +1,29 @@
-# Developer Fellowship - Monthly Report
+# Developer Monthly Update
 
-> Copy to `fellowships/reports/<your-github-handle>/YYYY-MM.md`, fill in, open a PR. Due the **5th**.
->
-> Should take 20 minutes. The weekly standups carry the detail; this is the summary.
+> Use the shared [monthly update](../templates/monthly-report.md). Add the developer evidence table below when it is useful. Send it by the 5th through the agreed reporting location; never include payment details in a repository or public post.
 
----
+- **Fellow:**
+- **Month:**
+- **Target project:**
+- **Status:** Green / Yellow / Red
 
-**Fellow:** <!-- name + @github-handle -->
-**Month:** <!-- YYYY-MM -->
-**Project:** <!-- e.g. rust-payjoin -->
-**Fellowship month:** <!-- 1 of 6 -->
-**Mentor:** <!-- @handle -->
+## Contribution evidence
 
----
+| Type | Link | Current state / what you learned |
+| --- | --- | --- |
+| Pull request or patch | | |
+| Review, test, issue analysis, or discussion | | |
+| Documentation, benchmark, or research | | |
 
-## 1. Pull requests
+## Technical reflection
 
-| PR | Title | Status | Opened | Notes |
-|---|---|---|---|---|
-| <!-- #1234 --> | <!-- Fix fee calculation in ... --> | <!-- Open / Merged / Closed / Draft --> | <!-- date --> | <!-- "awaiting second ACK" --> |
-| | | | | |
+- **Most important thing I understand now:**
+- **Blocker and what I tried:**
+- **One useful outcome for next month:**
+- **Specific ask for mentor/program:**
 
-**Opened this month:** <!-- X -->
-**Merged this month:** <!-- X -->
-**Total open across fellowship:** <!-- X -->
+## Working rhythm
 
----
-
-## 2. Reviews given
-
-> Weighted heavily in evaluation. Review capacity is the scarcest resource in Bitcoin open-source.
-
-| PR reviewed | Depth | Link |
-|---|---|---|
-| <!-- rust-bitcoin#5678 --> | <!-- Tested + code review / Concept ACK / Tested only --> | <!-- link --> |
-| | | |
-
-**Reviews this month:** <!-- X -->
-
----
-
-## 3. What I actually worked on
-
-<!--
-Prose, 100-200 words. What you spent the month on, including work that produced
-nothing visible.
-
-Be specific about the technical substance. "Worked on the wallet module" tells us
-nothing. "Spent two weeks understanding how BDK's coin selection interacts with
-descriptor derivation, because my first patch broke an invariant I did not know
-existed" tells us a lot - and reads as progress, not failure.
--->
-
----
-
-## 4. What I learned
-
-<!--
-The subsystem, concept or piece of process you understand now that you did not a
-month ago. This is the actual product of a fellowship month.
--->
-
----
-
-## 5. Where I got stuck
-
-<!--
-Required. "Nowhere" is almost never true, and a month with no friction usually
-means the work was too easy.
-
-Include how long you were stuck and how it resolved - or that it has not.
--->
-
----
-
-## 6. Community engagement
-
-- **IRC / Discord / mailing list activity:** <!-- e.g. "asked 2 questions in #bitcoin-core-dev, replied to a thread on the ML" -->
-- **Maintainer interaction:** <!-- who responded to you, and how it went -->
-- **Code Orange contribution:** <!-- did you help anyone in our Discord, guest-teach, review a cohort member's work? -->
-
----
-
-## 7. Technical writeup
-
-> One per quarter.
-
-- **Status:** <!-- Not due / Drafting / Published -->
-- **Title:** <!-- -->
-- **Link:** <!-- -->
-
----
-
-## 8. Weekly standups
-
-- [ ] Week 1 posted
-- [ ] Week 2 posted
-- [ ] Week 3 posted
-- [ ] Week 4 posted
-
-Missed any? Why: <!-- -->
-
----
-
-## 9. Blockers and asks
-
-<!--
-What is in your way. Hardware, a mentor intro, a review nobody will give you,
-a concept you need someone to explain live.
-
-If nothing, write "None."
--->
-
----
-
-## 10. Next month
-
-<!-- Three or four lines. What you are attempting, and the one thing you most want to land. -->
-
----
-
-## 11. Stipend
-
-- [ ] Weekly standups posted
-- [ ] Report submitted on time
-- [ ] Payment address unchanged
-
-New address if changed: <!-- -->
-
----
-
-*Submitted: <!-- YYYY-MM-DD -->*
+- Weekly updates sent: ___ / ___
+- Mentor check-ins completed: ___ / ___
+- Any change needed to scope or support:
