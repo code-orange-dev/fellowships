@@ -2,7 +2,7 @@
 
 How stipends are calculated and paid, and what happens when a month falls short.
 
-> Two items below are marked ⚠️ and are not yet settled: the Apprentice and Lead Educator rates, and the BTC conversion reference. Everything else is final.
+> The standard Developer and Educator Fellow rates below are the published program terms. Apprentice/Lead tiers and the BTC/USD conversion source must be agreed in writing before an offer that uses them.
 
 ---
 
@@ -23,11 +23,11 @@ Amounts are denominated in **USD and paid in Bitcoin**. The USD figure is the fi
 
 **Schedule:** paid by the **10th** of the following month, after the report lands on the 5th.
 
-**Conversion:** ⚠️ *Needs your decision.* Standard practice is spot rate at the moment of payment, using a named reference. Recommended wording once decided:
+**Conversion:** the fellowship agreement must name the spot BTC/USD reference used at payment time. Use the same named reference for the full term unless both parties agree a documented change.
 
 > Converted at the spot BTC/USD rate at time of payment, per `<reference source>`.
 
-Pick one reference and never change it mid-term. Ambiguity here is how goodwill gets destroyed.
+No fellow starts until this reference is clear in their agreement.
 
 **Rails: your choice.** Pick whichever suits you, and change it whenever you like - just tell us before the 5th so it applies to that month's payment.
 
@@ -39,7 +39,7 @@ Pick one reference and never change it mid-term. Ambiguity here is how goodwill 
 
 No rail is treated as more legitimate than another. If you are unsure, on-chain is the boring reliable default and nobody will think less of you for it.
 
-**Fellows provide the address.** Confirm it in each monthly report. Address changes must be confirmed over a second channel before payment - a compromised Discord account should never redirect a stipend.
+**Fellows provide payment details privately.** Payment-route changes must be confirmed through a second agreed channel before payment—a compromised chat account should never redirect a stipend. Do not repeat payment details in a monthly update.
 
 **No invoicing.** The monthly report is the invoice.
 
@@ -51,9 +51,9 @@ No rail is treated as more legitimate than another. If you are unsure, on-chain 
 
 | What | When | Where |
 |---|---|---|
-| Session logs (Educator) | Within 48h of each session | `fellowships/logs/<handle>/YYYY-MM.md` |
-| Weekly standup (Developer) | Every Monday | `#fellowships` on Discord |
-| Monthly report | **5th** of following month | PR to `fellowships/reports/<handle>/YYYY-MM.md` |
+| Session logs (Educator) | Within 48h of each session | Agreed reporting location; private when safety or participant privacy requires it |
+| Weekly update | Once each week | Agreed mentor/program channel |
+| Monthly update | **5th** of following month | Agreed reporting location; use the [shared template](../templates/monthly-report.md) |
 | Month-3 checkpoint | End of month 3 | 45-min call |
 | Month-6 review | End of month 6 | 1-hour call |
 
@@ -83,7 +83,7 @@ Credits average **quarterly** - 24 per quarter, not 8 every month. This is delib
 
 Not measured in units, because open-source does not work that way. A month spent fighting a build system, or waiting on a review that never came, is a normal month.
 
-What we need is **communication**. Standups posted, report submitted, honest about the state of things. A fellow who reports "I got nothing merged, here is what I was stuck on and what I am trying next" is in good standing.
+What we need is **communication**. Weekly updates sent, monthly update submitted, honest about the state of things. A fellow who reports "I got nothing merged, here is what I was stuck on and what I am trying next" is in good standing.
 
 A fellow who goes quiet for three weeks is not - not because of the output, but because we cannot help someone who is invisible.
 
@@ -112,17 +112,14 @@ Pausing is always better than quietly disappearing. Every fellow who has vanishe
 
 ---
 
-## Public record
+## Public record and privacy
 
-All reports and logs are **public in this repo**. Applying means accepting that.
+Public proof of work is valuable, but **reports and logs are not public by default**. Agree what can be shared before the fellowship begins. A public portfolio can link to upstream contributions, materials, aggregate attendance, or safely shareable reflections without publishing internal updates.
 
-**Why:** it is the credential. When we recommend you to OpenSats, Brink, HRF or a company hiring, we point at a verifiable public record rather than making claims. That record is worth more than the stipend.
-
-**Adjustments available on request:**
-
-- Attendee names can be handles, initials or omitted - counts are what matter
-- No photograph of any person without their explicit consent, every time
-- If your location or Bitcoin involvement creates real personal risk, tell us. We will find a private arrangement. This is a legitimate concern in several jurisdictions our community spans and asking for it counts against you in no way whatsoever.
+- Never include payment details, government ID, private contact information, or identifiable participant data in a repository, issue, or public report.
+- Use handles, initials, or aggregate counts for participants unless everyone involved has given informed consent.
+- No photograph of any person without their explicit consent, every time.
+- If Bitcoin involvement, location, or publication creates risk, request private reporting. This counts against you in no way.
 
 ---
 

@@ -1,281 +1,77 @@
 # Code Orange Fellowship
 
-> Ship code. Grow builders. Make Bitcoin more private - from Southeast Asia.
+> A six-month, mentored path from learning Bitcoin to making useful open-source contributions or growing a local Bitcoin learning community.
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-orange.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Code Orange supports fellows in Southeast Asia first, with remote participation considered where there is a strong project or community fit. The program is built around real work, small cohort support, and a public portfolio—not grades or busywork.
 
----
+## Start here
 
-## The Short Version
+| If you want to… | Read this first | Then do this |
+| --- | --- | --- |
+| Contribute to Bitcoin open source | [Developer track](developer-fellowship/) | [Check eligibility and apply](APPLY.md) |
+| Teach or organize Bitcoin learning | [Educator track](educator-fellowship/) | [Check eligibility and apply](APPLY.md) |
+| Understand the fellowship before applying | [Fellow handbook](FELLOW_HANDBOOK.md) | Read the [FAQ](shared/faq.md) |
+| Run or mentor the program | [Program operations](OPERATING_SYSTEM.md) | Use the [operations templates](templates/) |
 
-Code Orange runs workshops, cohorts, and meetups that turn curious Bitcoiners into technical contributors. The fellowship is what happens next: you pick a project, we give you a stipend and a mentor, and you ship real open-source code for 6 months.
+**Applications are reviewed on a rolling basis, subject to confirmed mentor capacity.** To apply, send a completed template to **fellowship@codeorange.dev**. Do not put private information, payment details, or participant data in a public pull request.
 
-We have two tracks because Bitcoin needs both builders and teachers:
+## Choose your track
 
-| | Developer Track | Educator Track |
-|---|---|---|
-| **You are** | A dev who wants to contribute to Bitcoin FOSS full-time or part-time | Someone who wants to teach Bitcoin development in your community |
-| **You do** | Write code, open PRs, review code, work with a mentor | Run cohorts, host workshops, create materials, grow the local scene |
-| **You get** | $512/month + mentorship + Bali hub access | $256/month + curriculum + event support + Bali hub access |
-| **Duration** | 6 months (extendable) | 6 months (extendable) |
-| **Details** | [Developer Track →](developer-fellowship/) | [Educator Track →](educator-fellowship/) |
+| | Developer Fellow | Educator Fellow |
+| --- | --- | --- |
+| Focus | Make sustained contributions to Bitcoin FOSS | Help a community learn and keep learning |
+| Typical commitment | 15–20 hours/week part-time, or 35+ full-time | 10–15 hours/week |
+| What you receive | Mentorship, peer cohort, $512/month paid in Bitcoin, Bali hub access where available | Curriculum, event support, peer cohort, $256/month paid in Bitcoin, Bali hub access where available |
+| Evidence of progress | PRs, reviews, tests, research, design work, documentation | Sessions, attendance trends, participant outcomes, reusable materials |
+| Your next page | [Developer track](developer-fellowship/) | [Educator track](educator-fellowship/) |
 
----
+Stipends are subject to a signed agreement and the program’s confirmed funding and mentor capacity. See [payment and reporting](shared/payment-and-reporting.md) for the working terms.
 
-## Why We Built This
+## How it works
 
-Southeast Asia has 700 million people, growing Bitcoin adoption, and almost zero Bitcoin open-source developers. India has Bitshala. Africa has Btrust. Latin America has Libreria de Satoshi. This region has been invisible.
+1. **Find your fit.** Read the track page, the eligibility checklist in [How to apply](APPLY.md), and the [FAQ](shared/faq.md). Developer applicants should first make a real attempt at their chosen project; educator applicants should name a real audience and first event or session.
+2. **Send one honest application.** Copy the relevant template, answer in your own words, and email it. A rough, specific application is more useful than a polished generic one.
+3. **Interview and scope.** We may ask follow-up questions or invite you to a short conversation. If there is a fit and a mentor seat, we agree a six-month work plan together.
+4. **Onboard in Month 1.** Sign the agreement, meet your mentor or program lead, set your public working plan, establish a payment route privately, and complete the [onboarding checklist](templates/onboarding-checklist.md).
+5. **Work in a steady rhythm.** Share a short weekly update, meet regularly, and submit one concise monthly update by the 5th. Educators also log sessions within 48 hours.
+6. **Review and graduate.** Month 3 is a continuation and scope review—not a surprise performance test. In Month 6, package your work into a portfolio and choose a next step: independent contribution, a grant, work, mentorship, or a new community role.
 
-Code Orange has spent 18 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and our contributors have opened **110+ PRs into Bitcoin FOSS projects with 70+ merged** - across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, LDK, Core Lightning and 18 other projects. 16 of them are contributing right now, from 8 countries. People here want to build. They just need a path.
+## What we value
 
-**[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+- **Useful work over vanity metrics.** A good test suite, careful review, honest write-up, or well-run small workshop can matter more than a large PR count or a crowded photo.
+- **Reliability and communication.** Tell us early when a plan is blocked or life changes. A pause is always better than disappearing.
+- **Upstream respect.** Maintainers decide what is accepted. We do not promise review or merge timelines on anyone else’s project.
+- **Public benefit with safe boundaries.** Publish work and learning where safe; protect personal, payment, and participant information.
+- **Reciprocity.** Fellows build their own path and leave a clearer path for the next person.
 
-The fellowship is that path:
+## The fellow’s toolkit
 
-```
- Workshops & Meetups        Cohorts              Fellowship             Independent
- ──────────────────    ──────────────────    ──────────────────    ──────────────────
- Sovereign Bitcoiner   Bitcoin Dojo (7wk)    6 months focused      OpenSats grant
- Self-Custody          Decoding BTC (8wk)    contribution with     HRF grant
- Mining                Privacy Track (12s)   mentor + stipend      Spiral grant
- Privacy               rawBit (10wk)                               Full-time FOSS
- Meetups & Talks                                                   career
+All templates are plain Markdown: copy one, rename it, and use it in your own private workspace or agreed reporting location.
 
- "I'm interested"     "I understand it"     "I'm contributing"    "I'm independent"
-```
+| Need | Template or guide |
+| --- | --- |
+| Apply as a developer | [Developer application](developer-fellowship/application.md) |
+| Apply as an educator | [Educator application](educator-fellowship/application.md) |
+| Turn an idea into a six-month plan | [Developer proposal](templates/developer-proposal.md) · [Educator proposal](templates/education-proposal.md) |
+| Get started after acceptance | [Onboarding checklist](templates/onboarding-checklist.md) |
+| Stay unblocked each week | [Weekly update](templates/weekly-update.md) |
+| Report one month of work | [Monthly update](templates/monthly-report.md) |
+| Log educator sessions | [Session log](educator-fellowship/session-log-template.md) |
+| Prepare the month-3 conversation | [Midpoint review](templates/month-3-review.md) |
+| Leave with proof of work | [Graduation portfolio](templates/graduation-portfolio.md) |
 
-The fellowship bridges the gap between "I finished a cohort" and "I have a track record that gets me a grant."
+## Program references
 
----
+This design draws on fellowships and contributor programs that make project selection, mentorship, public evidence, and alumni pathways explicit: [Btrust Builders](https://blog.btrust.tech/introducing-the-2026-btrust-builders-program/), [Summer of Bitcoin](https://www.summerofbitcoin.org/), [Chaincode Labs](https://learning.chaincode.com/), [Bitshala](https://bitshala.org/cohorts/), [Vinteum](https://vinteum.org/), and [Mozilla Fellows](https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/2026-nominations-request/). We also borrow a clear community standard from Mozilla’s [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
-## What Makes This Different
+## Help and conduct
 
-**We're not an online-only program.** Fellows can work from our Bali hub - a physical space where Bitcoin developers show up, build together, and learn from each other in person. Remote participation works too, but the IRL component is what accelerates learning.
+- Questions or applications: **fellowship@codeorange.dev**
+- Fellowship community: [Discord](https://discord.gg/xd6dmPF9bA)
+- Working expectations: [Fellow handbook](FELLOW_HANDBOOK.md)
+- Program decisions and capacity: [Operating system](OPERATING_SYSTEM.md)
+- Community expectations: [Code of Conduct](CODE_OF_CONDUCT.md)
 
-**We're privacy-focused.** Our curriculum emphasizes Silent Payments, Payjoin, compact block filters, and wallet privacy. This aligns with where the protocol is headed and where the funding is going (OpenSats explicitly prioritizes base-layer privacy work).
+Everything here is [CC0](LICENSE). Adapt it, translate it, and make it useful in your own community.
 
-**We grow our own.** Most fellowship applicants come through our cohorts. By the time someone applies, they've already spent 7-12 weeks building technical Bitcoin skills with us. We know their work. They know our culture. The fellowship isn't a cold start - it's the next step.
-
-**Education is not an afterthought.** We fund educators with the same seriousness as developers. The developer pipeline only works if someone is running the workshops and cohorts at the front of it. Educators make everything else possible.
-
----
-
-## Projects We Contribute To
-
-Fellows choose a project based on their skills and interests. Our sweet spot is privacy and wallet infrastructure, but we support any Bitcoin FOSS work.
-
-| Project | Language | Area |
-|---------|----------|------|
-| [rust-silentpayments](https://github.com/cygnet3/rust-silentpayments) | Rust | Silent Payments (BIP352) |
-| [payjoin-rust](https://github.com/payjoin/rust-payjoin) | Rust | Payjoin Dev Kit (BIP77) |
-| [BDK](https://github.com/bitcoindevkit/bdk) | Rust | Wallet development |
-| [Kyoto](https://github.com/rustaceanrob/kyoto) | Rust | Compact block filters (BIP157/158) |
-| [Coinswap](https://github.com/citadel-tech/coinswap) | Rust | CoinSwap protocol |
-| [Floresta](https://github.com/Davidson-Souza/Floresta) | Rust | Utreexo full node |
-| [Bitcoin Core](https://github.com/bitcoin/bitcoin) | C++ | Protocol, wallet, P2P |
-| [BTCPay Server](https://github.com/btcpayserver/btcpayserver) | C# | Merchant payments |
-| [Fedimint](https://github.com/fedimint/fedimint) | Rust | Federated eCash |
-| [LDK](https://github.com/lightningdevkit/rust-lightning) | Rust | Lightning |
-
-Working on something else? Propose it. If it's Bitcoin FOSS, we'll consider it.
-
----
-
-## How It Works
-
-### 1. Apply
-
-No forms. Send us your proposal - what you want to work on and why. Templates are in [`templates/`](templates/).
-
-**Developer Track:** Start contributing to your chosen project first (even a small PR), then send your 6-month work plan with a maintainer endorsement.
-
-**Educator Track:** Tell us what you want to teach, where, and to whom. Show us you understand the material well enough to teach it.
-
-Email: **fellowship@codeorange.dev**
-
-### 2. Get Accepted
-
-We review applications on a rolling basis. We look at your prior work, your proposal quality, and whether you're a good fit for the community. Expect a response within 2 weeks.
-
-### 3. Onboard (Month 1)
-
-Meet your mentor. Finalize your work plan. Set up your dev environment. Get your first PR in. Join the cohort sync.
-
-### 4. Build (Months 2-5)
-
-Ship code or run events every week. Meet with your mentor weekly. Submit a monthly work report. Participate in bi-weekly cohort syncs with the other fellows. Show up at Code Orange sessions when you can.
-
-### 5. Graduate (Month 6)
-
-Present your work to the community. Document everything. Apply for grants to keep going. Join the alumni network. Help select the next cohort.
-
----
-
-## Operating System
-
-Fellowship seats are limited by verified mentor capacity, not by the number of applications. The reusable [Fellowship Operating System](OPERATING_SYSTEM.md) defines eligibility, the selection rubric, mentor commitments, the Month-3 continuation review, and the alumni handoff.
-
----
-
-## All the Documents
-
-**Developer track**
-
-| | |
-|---|---|
-| [Track overview](developer-fellowship/) | The short version - who it's for, the six-month arc |
-| [Detailed spec](developer-fellowship/README-DETAIL.md) | Full rulebook: milestones, what good looks like, renewal |
-| [Project menu](developer-fellowship/project-menu.md) | 20+ codebases, difficulty-rated, where our contributors are already active |
-| [Application](developer-fellowship/application.md) | The form |
-| [Monthly report template](developer-fellowship/monthly-report-template.md) | Due the 5th |
-
-**Educator track**
-
-| | |
-|---|---|
-| [Track overview](educator-fellowship/) | The short version - pick your format |
-| [Detailed spec](educator-fellowship/README-DETAIL.md) | Credit table, caps and floors, tiers, renewal |
-| [Facilitation playbook](educator-fellowship/facilitation-playbook.md) | How to run a session well when you are not the expert in the room |
-| [Session log template](educator-fellowship/session-log-template.md) | Log within 48 hours |
-| [Application](educator-fellowship/application.md) | The form |
-| [Monthly report template](educator-fellowship/monthly-report-template.md) | Due the 5th |
-
-**Both tracks**
-
-| | |
-|---|---|
-| [Evaluation rubric](shared/evaluation-rubric.md) | Exactly how fellows are assessed at month 3 and month 6 |
-| [Payment and reporting](shared/payment-and-reporting.md) | Stipends, rails, short months, pausing |
-| [FAQ](shared/faq.md) | The questions people actually ask |
-| [Operating system](OPERATING_SYSTEM.md) | How the program itself is run |
-| [Fellowship agreement](templates/fellowship-agreement.md) | The contract |
-
----
-
-## The Numbers
-
-### For Fellows
-
-| | Developer | Educator |
-|---|---|---|
-| Monthly stipend | $512 USD | $256 USD |
-| Payment method | Bitcoin - Lightning, on-chain or eCash, your choice | Bitcoin - Lightning, on-chain or eCash, your choice |
-| Duration | 6 months | 6 months |
-| Time commitment | 15-20 hrs/wk (part-time) or 35+ (full-time) | 10-15 hrs/wk |
-| Extension | Possible based on performance | Possible based on performance |
-
-### For Funders
-
-| Metric | Per Developer Fellow (6mo) | Per Educator Fellow (6mo) |
-|--------|---------------------------|--------------------------|
-| Total cost | $3,072 | $1,536 |
-| Expected PRs merged | 6+ | - |
-| Expected events hosted | - | 24+ |
-| Expected participants reached | - | 30+ |
-| Cost per merged PR | ~$512 | - |
-
-Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
-
----
-
-## Cohort Schedule
-
-Two cohorts per year:
-
-| Cohort | Applications Open | Starts | Ends |
-|--------|-------------------|--------|------|
-| H1 | November 1 | January 15 | July 15 |
-| H2 | May 1 | July 15 | January 15 |
-
----
-
-## What a Fellowship Actually Looks Like
-
-Vague proposals don't get accepted. Here's what real fellowship work plans look like:
-
-### Example Developer Fellow: Silent Payments Focus
-
-**Project:** rust-silentpayments + Bitcoin Core SP support
-**6-month targets:**
-- Month 1: Add 15+ test cases covering BIP352 edge cases (mixed input types, label collision, multiple recipients)
-- Month 2: Implement label management module in rust-silentpayments
-- Month 3: Optimize scanning performance - benchmark and improve tweak cache
-- Month 4-5: Submit 2+ PRs to Bitcoin Core #28122 (testing, review, or code)
-- Month 6: Write integration guide for wallet developers adopting Silent Payments
-- **Total expected: 8+ PRs merged, 1 published guide**
-
-### Example Developer Fellow: Payjoin Focus
-
-**Project:** rust-payjoin / Payjoin Dev Kit
-**6-month targets:**
-- Month 1: Add BIP77 (async Payjoin) integration tests for relay failure scenarios
-- Month 2-3: Implement Payjoin sender support in a wallet that doesn't have it (BDK-based)
-- Month 4: Submit 2+ PRs to rust-payjoin improving error handling and documentation
-- Month 5: Write "Adding Payjoin to Your Wallet" tutorial for PDK
-- Month 6: Help onboard the next Privacy Track cohort to Payjoin concepts
-- **Total expected: 6+ PRs merged, 1 wallet integration, 1 published tutorial**
-
-### Example Developer Fellow: Light Client Privacy
-
-**Project:** Floresta / Kyoto
-**6-month targets:**
-- Month 1: Fix 3+ open issues in Floresta labeled "good first issue"
-- Month 2-3: Implement compact block filter caching optimization in Kyoto
-- Month 4: Add Silent Payments scanning support to Kyoto using CBF
-- Month 5-6: Benchmark privacy properties of Floresta vs Kyoto vs full node, publish results
-- **Total expected: 8+ PRs merged, 1 published benchmark**
-
-### Example Educator Fellow: Privacy Track Facilitator
-
-**Initiative:** Run the 24-session Privacy Track
-**6-month targets:**
-- Month 1: Recruit 15+ participants. Host sessions 1-2 (Foundations)
-- Month 2: Host sessions 3-4. Ensure every participant has filed their first GitHub issue
-- Month 3: Host sessions 5-6 (Silent Payments). Track participant PRs
-- Month 4: Host sessions 7-8. Mid-term review - at least 5 participants have submitted PRs
-- Month 5: Host sessions 9-10 (Payjoin). Begin training successor facilitator
-- Month 6: Host sessions 11-12. Hand off to trained successor. Present cohort results
-- **Total expected: 12 sessions hosted, 15+ participants, 20+ PRs from participants, 1 trained successor**
-
----
-
-## Expected Output Per Fellow
-
-| Fellow Type | Duration | PRs Merged | Cost | Cost per PR |
-|-------------|----------|-----------|------|-------------|
-| Developer (full-time) | 6 months | 8+ | $3,072 | ~$384 |
-| Developer (part-time) | 6 months | 6+ | $3,072 | ~$512 |
-| Educator | 6 months | 20+ (from participants) | $1,536 | ~$77 |
-
-Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
-
----
-
-## Alumni
-
-*(First cohort launching H2 2026. This section will be filled with real people and real PRs.)*
-
----
-
-## Programs We Learned From
-
-We built this by studying what works elsewhere and stealing shamelessly. Credit where it is due:
-
-- **[Btrust Builders](https://blog.btrust.tech/introducing-the-2026-btrust-builders-program/)** - the proof-of-work database and the "grant-ready by graduation" framing
-- **[Chaincode Labs](https://chaincode.com/) / [BOSS Challenge](https://learning.chaincode.com/)** - structured monthly progression with active-contributor mentorship
-- **[Bitshala](https://bitshala.org/cohorts/)** - study cohorts as the unit of community, and weekly written assignments
-- **[Vinteum](https://vinteum.org/)** - regional developer residency model
-- **[Summer of Bitcoin](https://www.summerofbitcoin.org/)** - mentor matching and structured project selection
-- **[Base58](https://base58.school/)** - practical, production-focused technical teaching
-
-If you run a program like this and want to compare notes or share fellows, open an issue.
-
----
-
-## License
-
-Everything here is [CC0](LICENSE). Take it. Adapt it. Build your own fellowship in your own community.
-
----
-
-*[Code Orange Dev School](https://codeorange.dev) | Singapore | [github.com/code-orange-dev](https://github.com/code-orange-dev)*
+*[Code Orange Dev School](https://codeorange.dev) · [github.com/code-orange-dev](https://github.com/code-orange-dev)*

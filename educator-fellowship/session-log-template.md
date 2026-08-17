@@ -2,7 +2,7 @@
 
 > **Log within 48 hours.** Memory decays fast and month-end reconstruction is where accuracy dies.
 >
-> Keep one running file per month at `fellowships/logs/<your-handle>/YYYY-MM.md` and append each session. Do not open a PR per session - one PR at month end with the whole log is fine.
+> Keep one running file per month in the agreed reporting location and append each session within 48 hours. Use a private location whenever a public log would expose participant identities, locations, or other safety-sensitive details.
 
 ---
 

@@ -1,143 +1,67 @@
-# Educator Track
+# Educator Fellowship
 
-> Run the workshops. Lead the cohorts. Build the Bitcoin dev community in your city. $256/month.
+> Build a durable local Bitcoin learning community by running thoughtful, repeatable learning experiences.
 
----
+## Is this for you?
 
-## Who This Is For
+This track is for organizers, facilitators, teachers, and technically curious Bitcoiners who want to help people learn safely and deeply. You do not need to be a developer. You do need to be honest about what you can teach, prepared to keep showing up, and interested in leaving materials and people who can carry the work forward.
 
-You know Bitcoin well enough to teach it. Maybe you graduated from one of our cohorts and want to lead the next one. Maybe you've been running meetups and want to go deeper. Maybe you're a developer who's better at explaining things than writing code. Whatever the path - you care about getting more people into Bitcoin, and you want to do it seriously.
+Before applying, you should be able to name:
 
-The educator track gives you funding, materials, and support to run Bitcoin education in Southeast Asia. You decide the format.
+- the people or community you want to serve;
+- a format you can run consistently for six months;
+- topics you can teach confidently and areas where you need support;
+- a plausible first session, venue or online space, and recruitment path;
+- 10–15 dependable hours each week.
 
----
+Southeast Asia-based applicants receive priority. We can support remote participation where the community fit is clear.
 
-## Pick Your Format
+## Choose a format
 
-You can do one of these, or combine them:
+You can combine formats when the load is realistic.
 
-### Run a Cohort
+| Format | Example | What lasts after you |
+| --- | --- | --- |
+| Cohort | A weekly self-custody, privacy, or Bitcoin-development series | Session plans, exercises, and participant milestones |
+| Study or review club | An Optech, Bitcoin Core PR, book, or Rust discussion group | Notes, reading paths, and a regular community habit |
+| Hands-on event | A node, wallet, mining, or privacy workshop | A tested workshop runbook and reusable materials |
+| Content and translation | A local-language guide, exercise set, or explainer | CC0 resources others can adapt and teach from |
 
-Take a group of people through a structured multi-week program. We have curriculum ready to go - or you can build your own.
+The goal is not a crowded event calendar. The goal is a community where people return, gain capability, and can eventually help teach the next group.
 
-Available cohorts: Bitcoin Dojo (7 weeks), Decoding Bitcoin (8 weeks), Privacy Track (12 sessions), rawBit (10 weeks), Learning Bitcoin from the Command Line (8 weeks). Or propose something new.
+## What you receive and commit to
 
-What this looks like: You facilitate weekly sessions (1.5-2.5 hours), support participants between sessions, track completion, and submit a cohort report when it's done.
+| You receive | You commit to |
+| --- | --- |
+| $256/month paid in Bitcoin, subject to the signed agreement | A realistic public or privately agreed teaching plan |
+| Curriculum, facilitation support, and event guidance | Session logs within 48 hours and a monthly update by the 5th |
+| Peer cohort and, where available, Bali hub/event support | Consistent delivery, participant care, and an honest midpoint review |
+| Help documenting your program and training a successor | Reusable materials and a Month-6 handoff/portfolio |
 
-### Host a Club
+The normal target is eight session credits per month, averaged over a quarter. The detailed definitions and flexible handling of short months are in the [detailed spec](README-DETAIL.md) and [payment and reporting](../shared/payment-and-reporting.md).
 
-A recurring, drop-in session where people study together. Less structured than a cohort. More about building a habit and a community.
+## A practical six-month arc
 
-Ideas: Bitcoin PR Review Club (review a Core PR together each week), Optech Deep Dive (walk through the latest newsletter), Reading Club (discuss a paper or book chapter), Rust for Bitcoiners (learn Rust through Bitcoin projects).
+| Phase | Aim | Useful evidence |
+| --- | --- | --- |
+| Month 1: launch | Confirm a schedule, recruit responsibly, and deliver the first session. | Session plan, log, attendance count, feedback. |
+| Months 2–3: establish | Build a dependable rhythm and learn what participants need. | Return rate, participant milestones, updated materials. |
+| Month 3: adapt | Review delivery, safety, scope, and support needs. | [Midpoint review](../templates/month-3-review.md) and 30-day plan. |
+| Months 4–5: deepen | Improve the learning journey and begin successor training. | Stronger exercises, new facilitator practice, reusable runbook. |
+| Month 6: hand off | Leave a credible record and a next owner or next-step plan. | [Graduation portfolio](../templates/graduation-portfolio.md), materials index, successor plan. |
 
-What this looks like: You prepare the topic, show up consistently, facilitate discussion. The key word is *consistently* - a club that runs every week for 6 months builds something. A club that runs twice and dies doesn't.
+## Apply
 
-### Host IRL Events
+1. Read [How to Apply](../APPLY.md).
+2. Copy the [educator application](application.md) and answer it plainly.
+3. Add the optional [educator proposal](../templates/education-proposal.md) if you want to share a fuller six-month plan.
+4. Email it to **fellowship@codeorange.dev**. Never include payment information or identifiable attendee data in your application.
 
-Organize in-person Bitcoin education in your city. Minimum: twice a month.
+## Keep close
 
-Options: Sovereign Bitcoiner workshops, self-custody workshops, Bitcoin mining (BitAxe) workshops, privacy workshops, hackathons, meetups with technical talks. You choose based on what your community needs.
-
-What this looks like: You plan the event, secure a venue, prepare materials, promote it, facilitate it, document it. Code Orange helps with Bali venues and can provide hardware (nodes, signing devices, BitAxes).
-
-### Create Content
-
-Produce educational materials that other people can use to teach Bitcoin.
-
-Options: Written tutorials, video explainers, exercise sets, translations of existing curriculum into Bahasa Indonesia / Thai / Vietnamese / other regional languages, technical diagrams.
-
-What this looks like: At least 2 substantial pieces per month. Everything is published under CC0 on our GitHub.
-
----
-
-## What Your Week Looks Like
-
-This depends on your format, but here's a typical week for someone running a cohort + monthly events:
-
-**Monday-Tuesday:** Prep your session. Review the material. Prepare exercises or discussion questions.
-
-**Wednesday or Thursday evening:** Facilitate your cohort session (1.5-2.5 hours).
-
-**Friday:** Follow up with participants. Answer questions in Discord. Update your notes.
-
-**Saturday (2x/month):** Host an IRL workshop or meetup.
-
-**Ongoing:** Respond to participant questions, promote upcoming events, recruit new participants.
-
----
-
-## The 6-Month Arc
-
-**Month 1:** Get set up. Define your initiative, publish your schedule, promote it, host your first session or event.
-
-**Months 2-3:** Find your rhythm. Run sessions consistently. Collect feedback. Adjust your approach based on what works.
-
-**Month 3:** Mid-term check-in with the program lead. How's attendance? What's working? What needs to change?
-
-**Months 4-5:** Grow. Recruit new participants. Try a new format. Start training someone else to facilitate - you won't be doing this forever, and the initiative should survive you.
-
-**Month 6:** Hand off. Document everything. Train your successor. Present what you built to the Code Orange community. Write a final report.
-
----
-
-## What We Expect
-
-- **Show up.** Consistency matters more than perfection. A mediocre session that happens every week beats a brilliant session that happens twice.
-- **Monthly activity report** by the 5th of each month (see [template](../templates/monthly-report.md)). Events hosted, attendance, content created, what's next.
-- **Bi-weekly cohort sync** with other fellows. Share what's working.
-- **8 session credits per month**, averaged across the quarter. Different session types are worth different amounts - a 4-hour hands-on workshop is not the same as a coffee chat. The full credit table, caps and floors are in the [detailed program spec](./README-DETAIL.md), and every session gets logged with the [session log template](./session-log-template.md).
-- **Two participant outcomes per quarter.** At least two people from your sessions reach a real milestone - first PR opened, cohort completed, node deployed and running, or they start facilitating themselves. Activity without progression is a failed quarter even if the credit count is met.
-- **Documentation.** Write things down so someone else can run your initiative after you leave.
-
----
-
-## What Success Looks Like
-
-After 6 months, a strong educator fellow has:
-
-- Reached 30+ unique participants through their initiative
-- Sustained roughly 48 session credits across the six months - a full cohort, or 40+ sessions and events
-- Created reusable materials (session notes, exercises, guides) that live on our GitHub
-- Trained at least one successor who can continue the initiative
-- Demonstrated enough technical depth to apply for the developer track (if interested)
-
----
-
-## Path to Developer Track
-
-If you spend 6 months teaching Bitcoin and realize you want to build it - great. Education fellows who complete the program and have made at least one open-source contribution can apply for the developer track with a strong advantage. Teaching is one of the best ways to deepen your own understanding.
-
----
-
-## How to Apply
-
-1. **Know what you want to do.** Which format? What topic? Where? Who's your audience?
-
-2. **Fill in the [application](./application.md)**, or the longer [proposal template](../templates/education-proposal.md) if you prefer.
-
-3. **Send it, any of three ways:**
-   - Open a PR adding it at `applications/<your-github-handle>.md`
-   - Post it in `#fellowships` on [Discord](https://discord.gg/xd6dmPF9bA)
-   - Email fellowship@codeorange.dev, subject "Educator Fellowship - [Your Name]"
-
-We review on a rolling basis. Expect a response within 2 weeks.
-
----
-
-## Everything else you need
-
-| Document | What it is |
-|---|---|
-| **[Detailed program spec](./README-DETAIL.md)** | Credit table, caps and floors, tiers, renewal paths |
-| **[Facilitation playbook](./facilitation-playbook.md)** | How to run a session well when you are not the expert in the room |
-| **[Session log template](./session-log-template.md)** | Log each session within 48 hours |
-| **[Monthly report template](./monthly-report-template.md)** | Due the 5th |
-| **[Application](./application.md)** | The form |
-| **[Evaluation rubric](../shared/evaluation-rubric.md)** | Exactly how you are assessed at month 3 and month 6 |
-| **[Payment and reporting](../shared/payment-and-reporting.md)** | Stipends, rails, short months, pausing |
-| **[FAQ](../shared/faq.md)** | The questions people actually ask |
-| **[Operating system](../OPERATING_SYSTEM.md)** | How the program itself is run |
-
----
-
-*[Code Orange Dev School](https://codeorange.dev) | Singapore | CC0 1.0 Universal*
+- [Facilitation playbook](facilitation-playbook.md)
+- [Session log template](session-log-template.md)
+- [Educator monthly update](monthly-report-template.md)
+- [Fellow handbook](../FELLOW_HANDBOOK.md)
+- [Evaluation rubric](../shared/evaluation-rubric.md)
+- [FAQ](../shared/faq.md)

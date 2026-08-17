@@ -1,133 +1,60 @@
-# Educator Fellowship - Application
+# Educator Fellowship Application
 
-> Copy to `fellowships/applications/<your-github-handle>.md` and open a PR. Or send it in `#fellowships` on [Discord](https://discord.gg/xd6dmPF9bA) if you would rather not apply in public - that is a completely normal choice and does not count against you.
+> Copy this file into a private document, remove the guidance comments, and email it to **fellowship@codeorange.dev** with the subject `Educator Fellowship application — Your Name`.
 >
-> **Write it yourself.** We would rather read 400 rough honest words than a polished AI-written essay. We can tell, and it is the fastest way to get declined.
-
----
+> Write plainly and in your own words. Do not include payment details, government ID, a home address, or identifiable participant information.
 
 ## About you
 
-**Name:**
-**GitHub handle:**
-**Discord handle:**
-**Location (city, country):**
-**Languages you can teach in:**
-**Time zone:**
+- **Name:**
+- **GitHub handle (if any):**
+- **Location and time zone:**
+- **Languages you can teach in:**
+- **Best email or contact method:**
 
----
+## 1. Teaching and community experience
 
-## 1. What have you taught, and to whom?
+What have you taught, facilitated, organized, translated, or explained? Who was the audience, and what did they get from it?
 
-<!--
-Any format counts: a workshop, a study group, a YouTube video, a university tutorial,
-teaching your brother to set up a hardware wallet.
+<!-- Formal teaching is not required. A workshop, a study group, a video, a community meetup, or helping friends learn all count. -->
 
-If you have never formally taught but you are the person your friends ask when they
-have a Bitcoin question - say that. It is real experience.
+## 2. The community you will serve
 
-~150 words.
--->
+- **Who are they?**
+- **How will you reach them?**
+- **What do they need or want to learn?**
+- **Where will you meet?** <!-- in person, online, or both -->
+- **What is already confirmed, and what do you still need?**
 
----
+## 3. Your first 90 days
 
-## 2. What community would you be teaching?
+Name your format, topic, expected cadence, first session or event, and the first learning outcome you hope participants reach. Attach the [educator proposal](../templates/education-proposal.md) if you have a fuller plan.
 
-<!--
-Who are they, where are they, and how do you reach them?
+## 4. Teaching confidence and growth
 
-- Existing group you are part of, or one you would start?
-- Roughly how many people can you get in a room, or on a call?
-- Do you have a venue, or need one?
-- What is the Bitcoin scene like where you are?
+- **I can teach confidently:**
+- **I can teach with preparation/support:**
+- **I would not teach yet:**
+- **How I will check that people are learning:**
+- **How I will keep sessions welcoming and safe:**
 
-Be realistic. "I know four people who would come and I think I could grow it" is a
-better answer than an invented number.
+## 5. Time and support
 
-~200 words.
--->
+- **Hours I can reliably commit each week:**
+- **Other commitments or known interruptions:**
+- **Venue or online-platform needs:**
+- **Curriculum, event, translation, or mentorship support I need:**
 
----
+## 6. Community and conduct
 
-## 3. What would your first three months look like?
+How will you document useful materials or prepare another person to help facilitate? Is there anything we should know to make participation safer or more accessible for you?
 
-<!--
-Rough plan. Which curriculum track would you run, at what cadence, and to whom?
+## Links and declaration
 
-Look at the available tracks first:
-https://github.com/code-orange-dev/curriculum
+- Teaching, writing, or community links (optional):
+- GitHub (optional):
+- Other relevant links (optional):
 
-You do not need certainty. We want to see that you have thought about the mechanics -
-when, where, how often, who.
--->
+I confirm that this application is my own account of my plans and availability.
 
----
-
-## 4. How would you hit 8 credits a month?
-
-<!--
-Sketch a typical month against the credit table. For example:
-
-  4 × cohort sessions (weekly)          = 4.0
-  1 × hands-on workshop                 = 1.5
-  2 × meetups                           = 1.5
-  4 × 1:1 mentoring                     = 1.0
-                                  Total = 8.0
-
-This is the question people most often get wrong - usually by over-promising.
-A plan that reaches 8.0 with no slack will break the first time you get sick.
-Show us something you could actually sustain for six months.
--->
-
----
-
-## 5. What is your own Bitcoin technical level?
-
-<!--
-Honest self-assessment. You do NOT need to be a developer for this fellowship.
-
-Tell us: what you can teach confidently, what you could teach with a week's prep,
-and what is beyond you right now.
-
-The best educators are often one step ahead of their students, not ten. Saying
-"I could not teach Taproot but I can teach seed phrases and node setup cold" is a
-strong answer, not a weak one.
--->
-
----
-
-## 6. Why Bitcoin, and why teaching?
-
-<!--
-~150 words. Not the price. Not a manifesto. What actually got you here and why
-you want to spend your time on this.
--->
-
----
-
-## 7. Practical
-
-**Hours per week you can commit:**
-**Can you attend a monthly train-the-trainer call?** (roughly 1 hour, time TBD)
-**Do you have a venue, or need help finding one?**
-**Do you have a Lightning address or Bitcoin address for stipend payment?**
-**Anything that would interrupt a six-month commitment?** <!-- travel, exams, a job change, a baby - we would rather know now and plan around it -->
-
----
-
-## 8. Links
-
-- GitHub:
-- X / Nostr:
-- Anything you have made or taught:
-- Community you organise, if any:
-
----
-
-## 9. Anything else
-
-<!-- Optional. Anything that does not fit above. -->
-
----
-
-*Submitted: <!-- YYYY-MM-DD -->*
+- **Submitted:**

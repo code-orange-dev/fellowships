@@ -1,64 +1,53 @@
-# Monthly Report
+# Monthly Update
 
-> Submit by the 5th of each month to fellowship@codeorange.dev
+> Send by the 5th of the following month to the agreed reporting location. This is a reflection and an unblock request, not an invoice. Keep payment routes and personal information private.
 
----
+- **Fellow:**
+- **Track:** Developer / Educator
+- **Month:**
+- **Fellowship month:** 1 / 2 / 3 / 4 / 5 / 6
+- **Status:** Green / Yellow / Red
 
-**Fellow:** [Name]
+## The month in three lines
 
-**Track:** Developer / Educator
+What mattered most, what changed, and where you are now.
 
-**Month:** [Month Year]
+## Evidence of work
 
-**Report #:** [1-6]
+### Developer track
 
----
+| Type | Link or reference | Why it matters / current state |
+| --- | --- | --- |
+| PR, patch, or branch | | |
+| Review, issue, or design discussion | | |
+| Test, benchmark, research, or documentation | | |
 
-## What I Focused On
+### Educator track
 
-2-3 sentences on the month's main work.
-
----
-
-## Developer Track
-
-**PRs Merged:**
-- [Title](link) - one-line description
-
-**PRs Open:**
-- [Title](link) - status
-
-**PRs Reviewed:**
-- [Title](link)
-
-**Issues Created:**
-- [Title](link)
-
----
-
-## Educator Track
-
-**Sessions / Events:**
-
-| Date | What | Where | Attendance |
-|------|------|-------|------------|
+| Date | Session or material | Attendance / outcome | Evidence |
+| --- | --- | --- | --- |
+| | | | |
 | | | | |
 
-**Content Created:**
-- [Title](link)
+**Credits this month / quarter to date:** <!-- educators only -->
 
----
+## Learning and outcomes
 
-## What Was Hard
+- What did you understand, improve, or validate this month?
+- What did a participant, user, maintainer, or peer do differently because of the work?
 
-What blocked you or slowed you down this month?
+## What did not go to plan
 
----
+Name the blocker, what you tried, and what changed as a result. “No blocker” is a valid answer when true.
 
-## Next Month
+## Next month
 
-What you're planning to focus on.
+- **One outcome that matters:**
+- **First next action:**
+- **Risk to watch:**
 
----
+## Ask of the program
 
-*[codeorange.dev](https://codeorange.dev)*
+What specific introduction, feedback, curriculum, hardware, logistics, or decision would help? Write `none` if you do not need anything.
+
+- **Submitted:**

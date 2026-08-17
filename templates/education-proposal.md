@@ -8,11 +8,11 @@
 
 **Based in:**
 
-**Contact:** (email + Telegram or Discord)
+**Contact:** (email or another safe private contact method)
 
 **Languages you can teach in:**
 
-**Preferred start:** H1 (January) or H2 (July)
+**Preferred start or availability window:**
 
 ---
 

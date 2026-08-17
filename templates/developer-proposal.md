@@ -10,11 +10,11 @@
 
 **GitHub:** github.com/
 
-**Contact:** (email + Telegram or Discord)
+**Contact:** (email or another safe private contact method)
 
 **Hours/week:** Part-time (15-20) or Full-time (35+)
 
-**Preferred start:** H1 (January) or H2 (July)
+**Preferred start or availability window:**
 
 ---
 
@@ -56,9 +56,9 @@ Break it down month by month. Be specific - "improve test coverage" is vague, "a
 
 ---
 
-## Maintainer Endorsement
+## Project relationship and mentor fit
 
-Who maintains the project? Do they know about your plan? Paste their endorsement (email, GitHub comment, or DM) or explain how you'll get it.
+Who maintains the project? Do they know about your plan? Link a public endorsement, describe the relationship, or explain your next step to engage constructively. An endorsement helps but is not a substitute for a realistic plan.
 
 ---
 
