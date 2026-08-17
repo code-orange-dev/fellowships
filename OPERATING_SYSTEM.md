@@ -42,7 +42,7 @@ Do not accept a fellow until one primary mentor, one fallback contact, and a pro
 | Mentor and program fit | 15 | Confirmed primary mentor/program lead, fallback contact, and relevant maintainer or community relationship |
 | Community reciprocity and regional impact | 10 | Peer support, workshop help, documentation, or a credible Southeast Asia knowledge-sharing plan |
 
-Record the evidence, total, decision, reviewer, and capacity check using the [application review template](templates/application-review.md). Do not select on promise alone. Do not record sensitive applicant data in a public repository.
+Record the evidence, total, decision, reviewer, and capacity check using the [application review template](templates/application-review.md). Track active seats with the [cohort dashboard](templates/cohort-dashboard.md). Do not select on promise alone. Do not record sensitive applicant data in a public repository.
 
 ## 3. Evidence of Progress
 

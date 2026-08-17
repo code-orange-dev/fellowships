@@ -42,4 +42,4 @@ The fellowship is not employment and does not require a fellow to be an expert i
 
 ## Apply
 
-Follow [How to Apply](../APPLY.md) and email the [application](application.md), with an optional [work plan](../templates/education-proposal.md), to **fellowship@codeorange.dev**.
+Follow [Apply](../APPLY.md) and email the [application](application.md), with an optional [work plan](../templates/work-plan.md), to **fellowship@codeorange.dev**.

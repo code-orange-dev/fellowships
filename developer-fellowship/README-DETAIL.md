@@ -45,4 +45,4 @@ This is not employment, a course, or a promise of funding after Month 6. It is s
 
 ## Apply
 
-Follow [How to Apply](../APPLY.md) and email the [application](application.md) plus, ideally, a [work plan](../templates/developer-proposal.md) to **fellowship@codeorange.dev**.
+Follow [Apply](../APPLY.md) and email the [application](application.md) plus, ideally, a [work plan](../templates/work-plan.md) to **fellowship@codeorange.dev**.
