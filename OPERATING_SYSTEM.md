@@ -11,7 +11,7 @@ Do not accept a fellow until one primary mentor, one fallback contact, and a pro
 | Developer | `unassigned` | Privacy / wallet infrastructure | 0 | 0 | `unassigned` | `unassigned` | Not ready to recruit |
 | Educator | `unassigned` | Southeast Asia cohort delivery | 0 | 0 | `unassigned` | `unassigned` | Not ready to recruit |
 
-**Capacity rule:** one mentor supports at most two developer fellows and must commit to a prepared weekly 30–60 minute check-in. Upstream maintainers are never promised a review SLA; Code Orange supplies structure, escalation, and peer review while the upstream project controls acceptance.
+**Capacity rule:** one mentor supports at most two developer fellows and must commit to a prepared weekly 30-60 minute check-in. Upstream maintainers are never promised a review SLA; Code Orange supplies structure, escalation, and peer review while the upstream project controls acceptance.
 
 ## 2. Eligibility and Selection
 
@@ -22,7 +22,7 @@ Do not accept a fellow until one primary mentor, one fallback contact, and a pro
 - A reproducible local development environment and a scoped six-month plan for a Bitcoin OSS project.
 - At least one upstream PR submitted by the fellowship start date. An application may be reviewed provisionally before that point, but no seat is awarded without the evidence.
 - A named mentor fit and, where possible, a project maintainer or contributor endorsement.
-- Realistic availability: 15–20 hours per week part-time or 35+ hours full-time.
+- Realistic availability: 15-20 hours per week part-time or 35+ hours full-time.
 
 ### Selection rubric (100 points)
 

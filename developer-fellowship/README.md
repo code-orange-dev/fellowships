@@ -1,6 +1,6 @@
 # Developer Track
 
-> Pick a project. Get a mentor. Ship PRs for 6 months. $500/month.
+> Pick a project. Get a mentor. Ship PRs for 6 months. $512/month.
 
 ---
 
@@ -116,10 +116,29 @@ Some fellows will get grants and go full-time on FOSS. Some will join Bitcoin co
 
 2. **Write your proposal.** Use the [developer proposal template](../templates/developer-proposal.md). Include a 6-month work plan with monthly milestones and a maintainer endorsement.
 
-3. **Send it.** Email fellowship@codeorange.dev with subject "Developer Fellowship - [Your Name]"
+3. **Send it, any of three ways:**
+   - Open a PR adding it at `applications/<your-github-handle>.md`
+   - Post it in `#fellowships` on [Discord](https://discord.gg/xd6dmPF9bA)
+   - Email fellowship@codeorange.dev, subject "Developer Fellowship - [Your Name]"
 
 We review on a rolling basis. Expect a response within 2 weeks.
 
 ---
 
-*[Code Orange Dev School](https://codeorange.dev) | Bali, Indonesia | CC0 1.0 Universal*
+## Everything else you need
+
+| Document | What it is |
+|---|---|
+| **[Detailed spec](./README-DETAIL.md)** | Month-by-month arc, what "good" looks like at month 6, renewal paths |
+| **[Project menu](./project-menu.md)** | 20+ codebases, difficulty-rated, with an honest note on Bitcoin Core |
+| **[Application](./application.md)** | The short form |
+| **[Proposal template](../templates/developer-proposal.md)** | The longer 6-month work plan |
+| **[Monthly report template](./monthly-report-template.md)** | Due the 5th |
+| **[Evaluation rubric](../shared/evaluation-rubric.md)** | Exactly how you are assessed at month 3 and month 6 |
+| **[Payment and reporting](../shared/payment-and-reporting.md)** | Stipends, rails, short months, pausing |
+| **[FAQ](../shared/faq.md)** | The questions people actually ask |
+| **[Operating system](../OPERATING_SYSTEM.md)** | How the program itself is run |
+
+---
+
+*[Code Orange Dev School](https://codeorange.dev) | Singapore | CC0 1.0 Universal*

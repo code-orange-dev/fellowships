@@ -16,9 +16,9 @@ We have two tracks because Bitcoin needs both builders and teachers:
 |---|---|---|
 | **You are** | A dev who wants to contribute to Bitcoin FOSS full-time or part-time | Someone who wants to teach Bitcoin development in your community |
 | **You do** | Write code, open PRs, review code, work with a mentor | Run cohorts, host workshops, create materials, grow the local scene |
-| **You get** | $500/month + mentorship + Bali hub access | $250/month + curriculum + event support + Bali hub access |
+| **You get** | $512/month + mentorship + Bali hub access | $256/month + curriculum + event support + Bali hub access |
 | **Duration** | 6 months (extendable) | 6 months (extendable) |
-| **Details** | [Developer Track →](developer-fellowship/) | [Educator Track →](education-fellowship/) |
+| **Details** | [Developer Track →](developer-fellowship/) | [Educator Track →](educator-fellowship/) |
 
 ---
 
@@ -26,7 +26,9 @@ We have two tracks because Bitcoin needs both builders and teachers:
 
 Southeast Asia has 700 million people, growing Bitcoin adoption, and almost zero Bitcoin open-source developers. India has Bitshala. Africa has Btrust. Latin America has Libreria de Satoshi. This region has been invisible.
 
-Code Orange has spent 15 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and shepherded 15 PRs into Bitcoin FOSS projects. People here want to build. They just need a path.
+Code Orange has spent 18 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and our contributors have opened **110+ PRs into Bitcoin FOSS projects with 70+ merged** - across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, LDK, Core Lightning and 18 other projects. 16 of them are contributing right now, from 8 countries. People here want to build. They just need a path.
+
+**[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
 
 The fellowship is that path:
 
@@ -115,14 +117,49 @@ Fellowship seats are limited by verified mentor capacity, not by the number of a
 
 ---
 
+## All the Documents
+
+**Developer track**
+
+| | |
+|---|---|
+| [Track overview](developer-fellowship/) | The short version - who it's for, the six-month arc |
+| [Detailed spec](developer-fellowship/README-DETAIL.md) | Full rulebook: milestones, what good looks like, renewal |
+| [Project menu](developer-fellowship/project-menu.md) | 20+ codebases, difficulty-rated, where our contributors are already active |
+| [Application](developer-fellowship/application.md) | The form |
+| [Monthly report template](developer-fellowship/monthly-report-template.md) | Due the 5th |
+
+**Educator track**
+
+| | |
+|---|---|
+| [Track overview](educator-fellowship/) | The short version - pick your format |
+| [Detailed spec](educator-fellowship/README-DETAIL.md) | Credit table, caps and floors, tiers, renewal |
+| [Facilitation playbook](educator-fellowship/facilitation-playbook.md) | How to run a session well when you are not the expert in the room |
+| [Session log template](educator-fellowship/session-log-template.md) | Log within 48 hours |
+| [Application](educator-fellowship/application.md) | The form |
+| [Monthly report template](educator-fellowship/monthly-report-template.md) | Due the 5th |
+
+**Both tracks**
+
+| | |
+|---|---|
+| [Evaluation rubric](shared/evaluation-rubric.md) | Exactly how fellows are assessed at month 3 and month 6 |
+| [Payment and reporting](shared/payment-and-reporting.md) | Stipends, rails, short months, pausing |
+| [FAQ](shared/faq.md) | The questions people actually ask |
+| [Operating system](OPERATING_SYSTEM.md) | How the program itself is run |
+| [Fellowship agreement](templates/fellowship-agreement.md) | The contract |
+
+---
+
 ## The Numbers
 
 ### For Fellows
 
 | | Developer | Educator |
 |---|---|---|
-| Monthly stipend | $500 USD | $250 USD |
-| Payment method | BTC or fiat (your choice) | BTC or fiat (your choice) |
+| Monthly stipend | $512 USD | $256 USD |
+| Payment method | Bitcoin - Lightning, on-chain or eCash, your choice | Bitcoin - Lightning, on-chain or eCash, your choice |
 | Duration | 6 months | 6 months |
 | Time commitment | 15-20 hrs/wk (part-time) or 35+ (full-time) | 10-15 hrs/wk |
 | Extension | Possible based on performance | Possible based on performance |
@@ -131,11 +168,11 @@ Fellowship seats are limited by verified mentor capacity, not by the number of a
 
 | Metric | Per Developer Fellow (6mo) | Per Educator Fellow (6mo) |
 |--------|---------------------------|--------------------------|
-| Total cost | $3,000 | $1,500 |
+| Total cost | $3,072 | $1,536 |
 | Expected PRs merged | 6+ | - |
 | Expected events hosted | - | 24+ |
 | Expected participants reached | - | 30+ |
-| Cost per merged PR | ~$500 | - |
+| Cost per merged PR | ~$512 | - |
 
 Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
 
@@ -206,9 +243,9 @@ Vague proposals don't get accepted. Here's what real fellowship work plans look 
 
 | Fellow Type | Duration | PRs Merged | Cost | Cost per PR |
 |-------------|----------|-----------|------|-------------|
-| Developer (full-time) | 6 months | 8+ | $3,000 | ~$375 |
-| Developer (part-time) | 6 months | 6+ | $3,000 | ~$500 |
-| Educator | 6 months | 20+ (from participants) | $1,500 | ~$75 |
+| Developer (full-time) | 6 months | 8+ | $3,072 | ~$384 |
+| Developer (part-time) | 6 months | 6+ | $3,072 | ~$512 |
+| Educator | 6 months | 20+ (from participants) | $1,536 | ~$77 |
 
 Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
 
@@ -220,10 +257,25 @@ Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We pro
 
 ---
 
+## Programs We Learned From
+
+We built this by studying what works elsewhere and stealing shamelessly. Credit where it is due:
+
+- **[Btrust Builders](https://blog.btrust.tech/introducing-the-2026-btrust-builders-program/)** - the proof-of-work database and the "grant-ready by graduation" framing
+- **[Chaincode Labs](https://chaincode.com/) / [BOSS Challenge](https://learning.chaincode.com/)** - structured monthly progression with active-contributor mentorship
+- **[Bitshala](https://bitshala.org/cohorts/)** - study cohorts as the unit of community, and weekly written assignments
+- **[Vinteum](https://vinteum.org/)** - regional developer residency model
+- **[Summer of Bitcoin](https://www.summerofbitcoin.org/)** - mentor matching and structured project selection
+- **[Base58](https://base58.school/)** - practical, production-focused technical teaching
+
+If you run a program like this and want to compare notes or share fellows, open an issue.
+
+---
+
 ## License
 
 Everything here is [CC0](LICENSE). Take it. Adapt it. Build your own fellowship in your own community.
 
 ---
 
-*[Code Orange Dev School](https://codeorange.dev) | Bali, Indonesia | [github.com/code-orange-dev](https://github.com/code-orange-dev)*
+*[Code Orange Dev School](https://codeorange.dev) | Singapore | [github.com/code-orange-dev](https://github.com/code-orange-dev)*

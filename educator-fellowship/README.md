@@ -1,6 +1,6 @@
 # Educator Track
 
-> Run the workshops. Lead the cohorts. Build the Bitcoin dev community in your city. $250/month.
+> Run the workshops. Lead the cohorts. Build the Bitcoin dev community in your city. $256/month.
 
 ---
 
@@ -85,7 +85,8 @@ This depends on your format, but here's a typical week for someone running a coh
 - **Show up.** Consistency matters more than perfection. A mediocre session that happens every week beats a brilliant session that happens twice.
 - **Monthly activity report** by the 5th of each month (see [template](../templates/monthly-report.md)). Events hosted, attendance, content created, what's next.
 - **Bi-weekly cohort sync** with other fellows. Share what's working.
-- **Minimum activity level.** If you're running events: 2+ per month. If you're running a club: weekly. If you're running a cohort: the full cohort schedule. If you're creating content: 2+ pieces per month.
+- **8 session credits per month**, averaged across the quarter. Different session types are worth different amounts - a 4-hour hands-on workshop is not the same as a coffee chat. The full credit table, caps and floors are in the [detailed program spec](./README-DETAIL.md), and every session gets logged with the [session log template](./session-log-template.md).
+- **Two participant outcomes per quarter.** At least two people from your sessions reach a real milestone - first PR opened, cohort completed, node deployed and running, or they start facilitating themselves. Activity without progression is a failed quarter even if the credit count is met.
 - **Documentation.** Write things down so someone else can run your initiative after you leave.
 
 ---
@@ -95,7 +96,7 @@ This depends on your format, but here's a typical week for someone running a coh
 After 6 months, a strong educator fellow has:
 
 - Reached 30+ unique participants through their initiative
-- Run a full cohort or hosted 20+ sessions/events
+- Sustained roughly 48 session credits across the six months - a full cohort, or 40+ sessions and events
 - Created reusable materials (session notes, exercises, guides) that live on our GitHub
 - Trained at least one successor who can continue the initiative
 - Demonstrated enough technical depth to apply for the developer track (if interested)
@@ -112,12 +113,31 @@ If you spend 6 months teaching Bitcoin and realize you want to build it - great.
 
 1. **Know what you want to do.** Which format? What topic? Where? Who's your audience?
 
-2. **Write your proposal.** Use the [educator proposal template](../templates/education-proposal.md). Include a 6-month activity plan.
+2. **Fill in the [application](./application.md)**, or the longer [proposal template](../templates/education-proposal.md) if you prefer.
 
-3. **Send it.** Email fellowship@codeorange.dev with subject "Educator Fellowship - [Your Name]"
+3. **Send it, any of three ways:**
+   - Open a PR adding it at `applications/<your-github-handle>.md`
+   - Post it in `#fellowships` on [Discord](https://discord.gg/xd6dmPF9bA)
+   - Email fellowship@codeorange.dev, subject "Educator Fellowship - [Your Name]"
 
 We review on a rolling basis. Expect a response within 2 weeks.
 
 ---
 
-*[Code Orange Dev School](https://codeorange.dev) | Bali, Indonesia | CC0 1.0 Universal*
+## Everything else you need
+
+| Document | What it is |
+|---|---|
+| **[Detailed program spec](./README-DETAIL.md)** | Credit table, caps and floors, tiers, renewal paths |
+| **[Facilitation playbook](./facilitation-playbook.md)** | How to run a session well when you are not the expert in the room |
+| **[Session log template](./session-log-template.md)** | Log each session within 48 hours |
+| **[Monthly report template](./monthly-report-template.md)** | Due the 5th |
+| **[Application](./application.md)** | The form |
+| **[Evaluation rubric](../shared/evaluation-rubric.md)** | Exactly how you are assessed at month 3 and month 6 |
+| **[Payment and reporting](../shared/payment-and-reporting.md)** | Stipends, rails, short months, pausing |
+| **[FAQ](../shared/faq.md)** | The questions people actually ask |
+| **[Operating system](../OPERATING_SYSTEM.md)** | How the program itself is run |
+
+---
+
+*[Code Orange Dev School](https://codeorange.dev) | Singapore | CC0 1.0 Universal*

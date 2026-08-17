@@ -21,10 +21,10 @@ The specific scope of work is defined in the Fellow's approved proposal, attache
 
 ## 2. Compensation
 
-**Developer Track:** $500 USD per month
-**Educator Track:** $250 USD per month
+**Developer Track:** $512 USD per month
+**Educator Track:** $256 USD per month
 
-Payment is processed within 15 days of the Fellow submitting their monthly work report. Payment method: Bitcoin (on-chain or Lightning) or bank transfer, at the Fellow's preference.
+Payment is processed within 15 days of the Fellow submitting their monthly work report. Amounts are denominated in USD and paid in Bitcoin. The Fellow chooses the rail - Lightning, on-chain, or eCash - and may change it between months with notice before the 5th.
 
 Pre-approved expenses (travel, venues, hardware) will be reimbursed upon receipt submission.
 
