@@ -17,7 +17,7 @@ The Rust Bitcoin ecosystem has the friendliest review culture in Bitcoin open-so
 | **[rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)** | The foundational Bitcoin library in Rust | 🟢 Approachable | Types, correctness, API design |
 | **[rust-silentpayments](https://github.com/cygnet3/rust-silentpayments)** | Silent Payments (BIP352) library | 🟡 Moderate | ECDH, scanning performance, the privacy sweet spot |
 | **[rust-payjoin](https://github.com/payjoin/rust-payjoin)** | Payjoin (BIP77/78) implementation | 🟡 Moderate | Privacy protocols, real-world wallet integration |
-| **[Coinswap](https://github.com/citadel-tech/coinswap)** | CoinSwap protocol implementation | 🔴 Hard | Atomic swaps, protocol design, maker/taker markets |
+| **[OpenSwap](https://github.com/citadel-foss/openswap)** (formerly Coinswap) | CoinSwap protocol implementation | 🔴 Hard | Atomic swaps, protocol design, maker/taker markets |
 | **[BDK](https://github.com/bitcoindevkit/bdk)** | Bitcoin Dev Kit - wallet library | 🟡 Moderate | Wallets, descriptors, coin selection |
 | **[LDK](https://github.com/lightningdevkit/rust-lightning)** | Lightning Dev Kit | 🔴 Hard | Lightning internals, state machines |
 | **[ldk-node](https://github.com/lightningdevkit/ldk-node)** | Batteries-included Lightning node | 🟡 Moderate | Making hard things usable |

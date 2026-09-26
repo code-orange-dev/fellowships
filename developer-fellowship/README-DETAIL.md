@@ -39,7 +39,7 @@ Someone who has merged code in that project or one close to it - from our contri
 
 ### You work in public
 
-Every PR, every review, every question in the project's IRC or Discord. Your record lands in the [PR tracking dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard) alongside the 110+ PRs our community has already opened.
+Every PR, every review, every question in the project's IRC or Discord. Your record lands in the [PR tracking dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard) alongside the 155+ PRs our community has already opened.
 
 ### You write
 

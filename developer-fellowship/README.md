@@ -59,7 +59,7 @@ Our focus is **privacy and wallet infrastructure** - that's where Code Orange ha
 **Privacy (our sweet spot):**
 - [rust-silentpayments](https://github.com/cygnet3/rust-silentpayments) - BIP352 library in Rust
 - [payjoin-rust](https://github.com/payjoin/rust-payjoin) - Payjoin Dev Kit (BIP77/78)
-- [Coinswap](https://github.com/citadel-tech/coinswap) - CoinSwap protocol implementation
+- [OpenSwap](https://github.com/citadel-foss/openswap) (formerly Coinswap) - CoinSwap protocol implementation
 - [Kyoto](https://github.com/rustaceanrob/kyoto) - Compact block filter light client
 
 **Wallets and infrastructure:**
