@@ -26,7 +26,7 @@ We have two tracks because Bitcoin needs both builders and teachers:
 
 Southeast Asia has 700 million people, growing Bitcoin adoption, and almost zero Bitcoin open-source developers. India has Bitshala. Africa has Btrust. Latin America has Libreria de Satoshi. This region has been invisible.
 
-Code Orange has spent 18 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and our contributors have opened **135+ PRs into Bitcoin FOSS projects with 96 merged** ([dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard), verified July 2026) - across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, LDK, Core Lightning and 18 other projects. 16 of them are contributing right now, from 8 countries. People here want to build. They just need a path.
+Code Orange has spent 18 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and our contributors have opened **135+ PRs into Bitcoin FOSS projects with 106 merged** ([dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard), re-verified September 2026) - across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, LDK, Core Lightning and 18 other projects. 16 of them are contributing right now, from 8 countries. People here want to build. They just need a path.
 
 **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
 
