@@ -26,7 +26,7 @@ We have two tracks because Bitcoin needs both builders and teachers:
 
 Southeast Asia has 700 million people, growing Bitcoin adoption, and almost zero Bitcoin open-source developers. India has Bitshala. Africa has Btrust. Latin America has Libreria de Satoshi. This region has been invisible.
 
-Code Orange has spent 18 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and our contributors have opened **110+ PRs into Bitcoin FOSS projects with 70+ merged** - across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, LDK, Core Lightning and 18 other projects. 16 of them are contributing right now, from 8 countries. People here want to build. They just need a path.
+Code Orange has spent 18 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and our contributors have opened **135+ PRs into Bitcoin FOSS projects with 96 merged** ([dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard), verified July 2026) - across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, LDK, Core Lightning and 18 other projects. 16 of them are contributing right now, from 8 countries. People here want to build. They just need a path.
 
 **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
 
@@ -70,7 +70,7 @@ Fellows choose a project based on their skills and interests. Our sweet spot is 
 | [payjoin-rust](https://github.com/payjoin/rust-payjoin) | Rust | Payjoin Dev Kit (BIP77) |
 | [BDK](https://github.com/bitcoindevkit/bdk) | Rust | Wallet development |
 | [Kyoto](https://github.com/rustaceanrob/kyoto) | Rust | Compact block filters (BIP157/158) |
-| [Coinswap](https://github.com/citadel-tech/coinswap) | Rust | CoinSwap protocol |
+| [OpenSwap](https://github.com/citadel-foss/openswap) | Rust | CoinSwap protocol |
 | [Floresta](https://github.com/Davidson-Souza/Floresta) | Rust | Utreexo full node |
 | [Bitcoin Core](https://github.com/bitcoin/bitcoin) | C++ | Protocol, wallet, P2P |
 | [BTCPay Server](https://github.com/btcpayserver/btcpayserver) | C# | Merchant payments |
@@ -227,15 +227,15 @@ Vague proposals don't get accepted. Here's what real fellowship work plans look 
 
 ### Example Educator Fellow: Privacy Track Facilitator
 
-**Initiative:** Run the 24-session Privacy Track
+**Initiative:** Run Season One of [The Privacy Sessions](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) (12 biweekly drop-in sessions)
 **6-month targets:**
-- Month 1: Recruit 15+ participants. Host sessions 1-2 (Foundations)
-- Month 2: Host sessions 3-4. Ensure every participant has filed their first GitHub issue
-- Month 3: Host sessions 5-6 (Silent Payments). Track participant PRs
-- Month 4: Host sessions 7-8. Mid-term review - at least 5 participants have submitted PRs
-- Month 5: Host sessions 9-10 (Payjoin). Begin training successor facilitator
-- Month 6: Host sessions 11-12. Hand off to trained successor. Present cohort results
-- **Total expected: 12 sessions hosted, 15+ participants, 20+ PRs from participants, 1 trained successor**
+- Month 1: Recruit 15+ participants. Host S1-S2 (Silent Payments: build a sender and a scanner against the BIP352 test vectors)
+- Month 2: Host S3 (Review Club on the Bitcoin Core Silent Payments PRs) and S4 (chain analysis)
+- Month 3: Host S5-S6 (coin selection, Payjoin). Keep the issue pool verified weekly
+- Month 4: Host S7-S8 (light clients, network privacy). Mid-season review of proof-of-work evidence
+- Month 5: Host S9-S10 (CoinJoin & OpenSwap, Lightning). Begin training a successor facilitator
+- Month 6: Host S11-S12 (ecash, contribution sprint). Hand off to the trained successor. Present season results
+- **Total expected: 12 sessions hosted, 15+ participants, 10+ participants with upstream proof of work (tests, reviews, docs or merged PRs), 1 trained successor**
 
 ---
 
