@@ -19,6 +19,7 @@ We have two tracks because Bitcoin needs both builders and teachers:
 | **You get** | $512/month + mentorship + Bali hub access | $256/month + curriculum + event support + Bali hub access |
 | **Duration** | 6 months (extendable) | 6 months (extendable) |
 | **Details** | [Developer Track →](developer-fellowship/) | [Educator Track →](educator-fellowship/) |
+| **One-pager** | [Developer one-pager →](developer-fellowship/ONE-PAGER.md) | [Educator one-pager →](educator-fellowship/ONE-PAGER.md) |
 
 ---
 

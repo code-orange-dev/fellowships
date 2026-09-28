@@ -129,6 +129,7 @@ We review on a rolling basis. Expect a response within 2 weeks.
 
 | Document | What it is |
 |---|---|
+| **[One-pager](./ONE-PAGER.md)** | The whole deal on one page - criteria, expectations, deliverables |
 | **[Detailed spec](./README-DETAIL.md)** | Month-by-month arc, what "good" looks like at month 6, renewal paths |
 | **[Project menu](./project-menu.md)** | 20+ codebases, difficulty-rated, with an honest note on Bitcoin Core |
 | **[Application](./application.md)** | The short form |

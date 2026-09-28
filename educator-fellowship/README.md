@@ -128,6 +128,7 @@ We review on a rolling basis. Expect a response within 2 weeks.
 
 | Document | What it is |
 |---|---|
+| **[One-pager](./ONE-PAGER.md)** | The whole deal on one page - criteria, expectations, deliverables |
 | **[Detailed program spec](./README-DETAIL.md)** | Credit table, caps and floors, tiers, renewal paths |
 | **[Facilitation playbook](./facilitation-playbook.md)** | How to run a session well when you are not the expert in the room |
 | **[Session log template](./session-log-template.md)** | Log each session within 48 hours |
