@@ -25,11 +25,9 @@ We have two tracks because Bitcoin needs both builders and teachers:
 
 ## Why We Built This
 
-Southeast Asia has 700 million people, growing Bitcoin adoption, and almost zero Bitcoin open-source developers. India has Bitshala. Africa has Btrust. Latin America has Libreria de Satoshi. This region has been invisible.
+Many developers who finish a study cohort stop before they become regular contributors, because the first months of open-source work are slow and unpaid. The fellowship pays for that period: a stipend, a mentor and a defined project.
 
-Code Orange has spent 18 months proving the demand exists. We've run 60+ workshops across Bali and Chiang Mai, graduated 33+ developers through technical cohorts, and our contributors have opened **155+ PRs into Bitcoin FOSS projects with 131 merged** ([dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard), re-verified September 2026) - across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, LDK, Core Lightning and 18 other projects. 16 of them are contributing right now, from 8 countries. People here want to build. They just need a path.
-
-**[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+Contributions by Code Orange community members are listed, with links, on the **[PR tracking dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)**.
 
 The fellowship is that path:
 
@@ -53,9 +51,9 @@ The fellowship bridges the gap between "I finished a cohort" and "I have a track
 
 **We're not an online-only program.** Fellows can work from our Bali hub - a physical space where Bitcoin developers show up, build together, and learn from each other in person. Remote participation works too, but the IRL component is what accelerates learning.
 
-**We're privacy-focused.** Our curriculum emphasizes Silent Payments, Payjoin, compact block filters, and wallet privacy. This aligns with where the protocol is headed and where the funding is going (OpenSats explicitly prioritizes base-layer privacy work).
+**We're privacy-focused.** Our curriculum emphasizes Silent Payments, Payjoin, compact block filters, and wallet privacy.
 
-**We grow our own.** Most fellowship applicants come through our cohorts. By the time someone applies, they've already spent 7-12 weeks building technical Bitcoin skills with us. We know their work. They know our culture. The fellowship isn't a cold start - it's the next step.
+**We grow our own.** Applicants who come through our cohorts have already spent 7-12 weeks building technical Bitcoin skills with us, so the fellowship is the next step rather than a cold start. Applicants from elsewhere are welcome too.
 
 **Education is not an afterthought.** We fund educators with the same seriousness as developers. The developer pipeline only works if someone is running the workshops and cohorts at the front of it. Educators make everything else possible.
 
@@ -126,7 +124,7 @@ Fellowship seats are limited by verified mentor capacity, not by the number of a
 |---|---|
 | [Track overview](developer-fellowship/) | The short version - who it's for, the six-month arc |
 | [Detailed spec](developer-fellowship/README-DETAIL.md) | Full rulebook: milestones, what good looks like, renewal |
-| [Project menu](developer-fellowship/project-menu.md) | 20+ codebases, difficulty-rated, where our contributors are already active |
+| [Project menu](developer-fellowship/project-menu.md) | Suggested codebases, difficulty-rated |
 | [Application](developer-fellowship/application.md) | The form |
 | [Monthly report template](developer-fellowship/monthly-report-template.md) | Due the 5th |
 
@@ -170,12 +168,8 @@ Fellowship seats are limited by verified mentor capacity, not by the number of a
 | Metric | Per Developer Fellow (6mo) | Per Educator Fellow (6mo) |
 |--------|---------------------------|--------------------------|
 | Total cost | $3,072 | $1,536 |
-| Expected PRs merged | 6+ | - |
-| Expected events hosted | - | 24+ |
-| Expected participants reached | - | 30+ |
-| Cost per merged PR | ~$512 | - |
 
-Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
+Fellows' work plans set their own targets (see the examples below). We report what fellows actually produce, with links, rather than projected output.
 
 ---
 
@@ -201,7 +195,7 @@ Vague proposals don't get accepted. Here's what real fellowship work plans look 
 - Month 1: Add 15+ test cases covering BIP352 edge cases (mixed input types, label collision, multiple recipients)
 - Month 2: Implement label management module in rust-silentpayments
 - Month 3: Optimize scanning performance - benchmark and improve tweak cache
-- Month 4-5: Submit 2+ PRs to Bitcoin Core #28122 (testing, review, or code)
+- Month 4-5: Review and test the open Bitcoin Core Silent Payments PRs (see [tracking issue #28536](https://github.com/bitcoin/bitcoin/issues/28536))
 - Month 6: Write integration guide for wallet developers adopting Silent Payments
 - **Total expected: 8+ PRs merged, 1 published guide**
 
@@ -232,23 +226,11 @@ Vague proposals don't get accepted. Here's what real fellowship work plans look 
 **6-month targets:**
 - Month 1: Recruit 15+ participants. Host S1-S2 (Silent Payments: build a sender and a scanner against the BIP352 test vectors)
 - Month 2: Host S3 (Review Club on the Bitcoin Core Silent Payments PRs) and S4 (chain analysis)
-- Month 3: Host S5-S6 (coin selection, Payjoin). Keep the issue pool verified weekly
+- Month 3: Host S5-S6 (coin selection, Payjoin). Check contribution targets before each session
 - Month 4: Host S7-S8 (light clients, network privacy). Mid-season review of proof-of-work evidence
 - Month 5: Host S9-S10 (CoinJoin & OpenSwap, Lightning). Begin training a successor facilitator
 - Month 6: Host S11-S12 (ecash, contribution sprint). Hand off to the trained successor. Present season results
 - **Total expected: 12 sessions hosted, 15+ participants, 10+ participants with upstream proof of work (tests, reviews, docs or merged PRs), 1 trained successor**
-
----
-
-## Expected Output Per Fellow
-
-| Fellow Type | Duration | PRs Merged | Cost | Cost per PR |
-|-------------|----------|-----------|------|-------------|
-| Developer (full-time) | 6 months | 8+ | $3,072 | ~$384 |
-| Developer (part-time) | 6 months | 6+ | $3,072 | ~$512 |
-| Educator | 6 months | 20+ (from participants) | $1,536 | ~$77 |
-
-Compare: a single full-time Bitcoin Core developer costs $150K-250K/year. We produce emerging contributors at a fraction of that, from a region with none.
 
 ---
 

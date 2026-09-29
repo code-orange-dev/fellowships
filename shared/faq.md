@@ -7,7 +7,7 @@ Missing question? [Open an issue](https://github.com/code-orange-dev/code-orange
 ## Eligibility
 
 **Do I need to be in Bali, or Asia?**
-No. Both fellowships are remote-friendly and our community already spans 8 countries - Indonesia, India, Romania, Nigeria, Kenya, Zambia, Brazil and South Korea. For the Educator track, what matters is that you have a community to teach, wherever it is.
+No. Both fellowships are remote-friendly. For the Educator track, what matters is that you have a community to teach, wherever it is.
 
 **Do I need to be a developer for the Educator Fellowship?**
 No, and this is the most common misconception. You need to be a curious Bitcoiner who prepares properly and is honest about the limits of what you know. The best facilitators are often one step ahead of the room, not ten - they still remember what confusion feels like. See the [facilitation playbook](../educator-fellowship/facilitation-playbook.md).

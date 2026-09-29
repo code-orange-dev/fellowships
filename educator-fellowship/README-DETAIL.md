@@ -72,7 +72,7 @@ Two per quarter is a deliberately achievable bar. It exists to keep the fellowsh
 | [rawBit](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) | 10 weeks | Raw transaction construction with a visual builder |
 | [Decoding Bitcoin](https://github.com/code-orange-dev/curriculum/tree/main/decoding-bitcoin) | 8 weeks | Transactions, Script, Taproot, PSBTs, Core contribution workflow |
 | [Sovereign Bitcoiner](https://github.com/code-orange-dev/curriculum/tree/main/sovereign-bitcoiner) | 5-10 weeks | Nodes, mining, multisig, inheritance, BTCPay, privacy tools |
-| [Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) | 24 sessions, drop-in | Chain analysis defence, Silent Payments, Payjoin, contribution-first |
+| [Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) | 12 biweekly sessions, drop-in | Silent Payments, chain analysis, Payjoin, network privacy, Lightning, ecash |
 | [Nostr Workshops](https://github.com/code-orange-dev/curriculum/tree/main/nostr-workshops) | Monthly | Nostr, Lightning integrations, FOSS tooling |
 
 **The [facilitation playbook](./facilitation-playbook.md).** How to run a session that works when you are not the smartest person in the room - and what to do when you are asked something you cannot answer.
