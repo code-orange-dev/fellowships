@@ -131,7 +131,7 @@ We review on a rolling basis. Expect a response within 2 weeks.
 |---|---|
 | **[One-pager](./ONE-PAGER.md)** ([PDF](./developer-fellowship-one-pager.pdf)) | The whole deal on one page - criteria, expectations, deliverables |
 | **[Detailed spec](./README-DETAIL.md)** | Month-by-month arc, what "good" looks like at month 6, renewal paths |
-| **[Project menu](./project-menu.md)** | 20+ codebases, difficulty-rated, with an honest note on Bitcoin Core |
+| **[Project menu](./project-menu.md)** | Suggested codebases, difficulty-rated, with an honest note on Bitcoin Core |
 | **[Application](./application.md)** | The short form |
 | **[Proposal template](../templates/developer-proposal.md)** | The longer 6-month work plan |
 | **[Monthly report template](./monthly-report-template.md)** | Due the 5th |
