@@ -33,6 +33,7 @@ We pick people who have already started. We judge where you're heading, not just
 - **Time:** 15–20 hours a week for 6 months.
 - **A 6-month plan** with one goal per month.
 - **Okay with working in public:** your monthly highlights and GitHub work go on your proof-of-work page. Payments stay private.
+- **Commitment to [Code Review Club](https://github.com/code-orange-dev/code-orange-dev/blob/main/privacy-contributor-program/REVIEW_CLUB.md) and the [Privacy Track](https://codeorange.dev/privacy-track)**, including presenting your work.
 
 **Makes you stand out**
 
@@ -63,7 +64,7 @@ Shortlisted applicants get a **20-minute call to walk us through one of their ow
 
 ## 2. What you can build
 
-Anything Bitcoin or Nostr, as long as it's open source. See the difficulty-rated [project menu](project-menu.md).
+Anything Bitcoin or Nostr, as long as it's open source. **Privacy is our focus:** Privacy Track projects get priority, and every fellow joins the Privacy Track sessions whatever they build. See the difficulty-rated [project menu](project-menu.md).
 
 - **Privacy (a big plus):** rust-payjoin, rust-silentpayments, Floresta, JoinMarket, OpenSwap, Fedimint, Cashu / ecash, Kyoto
 - **Wallets, Lightning, protocol:** BDK, LDK, BTCPay Server, rust-bitcoin, Bitcoin Core, Core Lightning, LND
@@ -93,7 +94,8 @@ You agree one milestone per month with your mentor in month 1. Defaults:
 | Every Monday | 2-minute standup: did, next, blocked. Tick "I'd like help" to get a call. | Fellow dashboard |
 | Every week | 30–60 minute mentor call | Call |
 | Every Friday | Review a PR by someone else (at least 2 substantive reviews a month) | GitHub |
-| Every 2 weeks | Fellows sync: short demo or update | Discord |
+| Every session | **Code Review Club:** join, and **present what you're building at least once every 2 months** (months 2, 4 and 6) | Discord |
+| 1st & 3rd Tuesday | **Privacy Track** sessions, 07:00 UTC · 15:00 UTC+8 | Discord |
 | By the 5th | Monthly report: shipped, PRs, reviews, next. It's your invoice. | Fellow dashboard |
 | Month 3 & 6 | 45-minute check / 1-hour review | Call |
 
@@ -171,7 +173,7 @@ If being public about Bitcoin work puts you at real risk where you live, tell us
 
 ## 9b. Graduation
 
-- **Demo** your work to the community and invited guests.
+- **Demo** your work at a final Code Review Club session, with the community and invited guests.
 - **Certificate** you can verify, linked to your proof-of-work page.
 - **Next step:** intros, references and help applying for long-term open-source support or a role.
 - **Extend or mentor:** strong fellows can extend, or come back to mentor the next round.
