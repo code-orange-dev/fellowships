@@ -2,7 +2,7 @@
 
 How stipends are calculated and paid, and what happens when a month falls short.
 
-> Two items below are marked ⚠️ and are not yet settled: the Apprentice and Lead Educator rates, and the BTC conversion reference. Everything else is final.
+> One item below is marked ⚠️ and is not yet settled: the Apprentice and Lead Educator rates. Everything else is final.
 
 ---
 
@@ -23,11 +23,7 @@ Amounts are denominated in **USD and paid in Bitcoin**. The USD figure is the fi
 
 **Schedule:** paid by the **10th** of the following month, after the report lands on the 5th.
 
-**Conversion:** ⚠️ *Needs your decision.* Standard practice is spot rate at the moment of payment, using a named reference. Recommended wording once decided:
-
-> Converted at the spot BTC/USD rate at time of payment, per `<reference source>`.
-
-Pick one reference and never change it mid-term. Ambiguity here is how goodwill gets destroyed.
+**Conversion:** converted at the **Coinbase BTC-USD spot price at the moment of payment** (decided 2026-10-16). This reference never changes mid-term.
 
 **Rails: your choice.** Pick whichever suits you, and change it whenever you like - just tell us before the 5th so it applies to that month's payment.
 
@@ -39,7 +35,7 @@ Pick one reference and never change it mid-term. Ambiguity here is how goodwill 
 
 No rail is treated as more legitimate than another. If you are unsure, on-chain is the boring reliable default and nobody will think less of you for it.
 
-**Fellows provide the address.** Confirm it in each monthly report. Address changes must be confirmed over a second channel before payment - a compromised Discord account should never redirect a stipend.
+**Fellows provide the address.** Confirm it in each monthly report (the payout fields of the report are private). Address changes must be confirmed over a second channel before payment - a compromised Discord account should never redirect a stipend.
 
 **No invoicing.** The monthly report is the invoice.
 
@@ -52,8 +48,8 @@ No rail is treated as more legitimate than another. If you are unsure, on-chain 
 | What | When | Where |
 |---|---|---|
 | Session logs (Educator) | Within 48h of each session | `fellowships/logs/<handle>/YYYY-MM.md` |
-| Weekly standup (Developer) | Every Monday | `#fellowships` on Discord |
-| Monthly report | **5th** of following month | PR to `fellowships/reports/<handle>/YYYY-MM.md` |
+| Weekly standup (Developer) | Every Monday | [Fellow dashboard](https://codeorange.dev/fellowships/me) (private) |
+| Monthly report | **5th** of following month | Developers: [fellow dashboard](https://codeorange.dev/fellowships/me). Educators: PR to `fellowships/reports/<handle>/YYYY-MM.md` |
 | Month-3 checkpoint | End of month 3 | 45-min call |
 | Month-6 review | End of month 6 | 1-hour call |
 
@@ -114,7 +110,9 @@ Pausing is always better than quietly disappearing. Every fellow who has vanishe
 
 ## Public record
 
-All reports and logs are **public in this repo**. Applying means accepting that.
+Monthly report highlights and logs are **public**. Developer fellows' highlights, milestones and GitHub work appear on their proof-of-work page at `codeorange.dev/fellowships/f/<github>`. Applying means accepting that.
+
+**Payments are never public.** Amounts, sats, rates, payout addresses and transaction references are visible only to the fellow and the organisers. The same goes for applications, weekly standups, blockers and help requests.
 
 **Why:** it is the credential. When we recommend you to OpenSats, Brink, HRF or a company hiring, we point at a verifiable public record rather than making claims. That record is worth more than the stipend.
 

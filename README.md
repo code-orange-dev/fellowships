@@ -84,13 +84,11 @@ Working on something else? Propose it. If it's Bitcoin FOSS, we'll consider it.
 
 ### 1. Apply
 
-No forms. Send us your proposal - what you want to work on and why. Templates are in [`templates/`](templates/).
-
-**Developer Track:** Start contributing to your chosen project first (even a small PR), then send your 6-month work plan with a maintainer endorsement.
+**Developer Track:** read the **[guidelines & expectations](developer-fellowship/GUIDELINES.md)**, start contributing to your chosen Bitcoin or Nostr project (even a small PR), then take the readiness check and apply at **[codeorange.dev/fellowships/apply](https://codeorange.dev/fellowships/apply)** with your 6-month plan.
 
 **Educator Track:** Tell us what you want to teach, where, and to whom. Show us you understand the material well enough to teach it.
 
-Email: **fellowship@codeorange.dev**
+Educators: send your proposal (templates in [`templates/`](templates/)) to **hello@codeorange.dev**.
 
 ### 2. Get Accepted
 

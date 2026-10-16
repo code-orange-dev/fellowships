@@ -72,7 +72,9 @@ Our focus is **privacy and wallet infrastructure** - that's where Code Orange ha
 - [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Core Bitcoin primitives
 - [LDK](https://github.com/lightningdevkit/rust-lightning) - Lightning Development Kit
 
-**Something else?** If it's Bitcoin, it's open source, and you have a maintainer willing to vouch for your work plan - we'll consider it.
+**Nostr:** [rust-nostr](https://github.com/rust-nostr/nostr), [NDK](https://github.com/nostr-dev-kit/ndk), [nostr-tools](https://github.com/nbd-wtf/nostr-tools), [NIPs](https://github.com/nostr-protocol/nips)
+
+**Something else?** If it's Bitcoin or Nostr, it's open source, and you have a maintainer willing to vouch for your work plan - we'll consider it.
 
 ---
 
@@ -86,7 +88,7 @@ We find mentors through our network of Bitcoin FOSS contributors, past guest spe
 
 ## What We Expect From You
 
-- **Monthly work report** by the 5th of each month (see [template](../templates/monthly-report.md)). PRs merged, PRs raised, PRs reviewed, what's next.
+- **Weekly standup** every Monday and a **monthly work report** by the 5th of each month, both on your [fellow dashboard](https://codeorange.dev/fellowships/me) (see [template](../templates/monthly-report.md)). PRs merged, PRs raised, PRs reviewed, what's next.
 - **Weekly mentor call**. Show up prepared.
 - **Bi-weekly cohort sync**. Share progress with the other fellows.
 - **Community participation**. Attend Code Orange sessions when possible. Help newer learners.
@@ -116,10 +118,7 @@ Some fellows will get grants and go full-time on FOSS. Some will join Bitcoin co
 
 2. **Write your proposal.** Use the [developer proposal template](../templates/developer-proposal.md). Include a 6-month work plan with monthly milestones and a maintainer endorsement.
 
-3. **Send it, any of three ways:**
-   - Open a PR adding it at `applications/<your-github-handle>.md`
-   - Post it in `#fellowships` on [Discord](https://discord.gg/xd6dmPF9bA)
-   - Email fellowship@codeorange.dev, subject "Developer Fellowship - [Your Name]"
+3. **Apply on the website:** take the readiness check and send the form at [codeorange.dev/fellowships/apply](https://codeorange.dev/fellowships/apply).
 
 We review on a rolling basis. Expect a response within 2 weeks.
 
@@ -129,6 +128,7 @@ We review on a rolling basis. Expect a response within 2 weeks.
 
 | Document | What it is |
 |---|---|
+| **[Guidelines & expectations](./GUIDELINES.md)** | The bar, the rhythm, pay, accountability and what's public, on one page |
 | **[One-pager](./ONE-PAGER.md)** ([PDF](./developer-fellowship-one-pager.pdf)) | The whole deal on one page - criteria, expectations, deliverables |
 | **[Detailed spec](./README-DETAIL.md)** | Month-by-month arc, what "good" looks like at month 6, renewal paths |
 | **[Project menu](./project-menu.md)** | Suggested codebases, difficulty-rated, with an honest note on Bitcoin Core |
