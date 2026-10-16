@@ -47,6 +47,20 @@ The [readiness check](https://codeorange.dev/fellowships/apply) tells you what's
 
 ---
 
+## 1b. How we choose
+
+| Points | What we look at |
+|---|---|
+| 30 | Proof of work: PRs, reviews, how well you read code |
+| 25 | Project fit and value to users (privacy and wallets score high) |
+| 20 | A realistic 6-month plan with monthly goals |
+| 15 | Mentor and maintainer fit |
+| 10 | Giving back to the community |
+
+Shortlisted applicants get a **20-minute call to walk us through one of their own PRs** (why each change, what reviewers asked). We contact one reference from the project. An offer follows once the mentor is confirmed.
+
+---
+
 ## 2. What you can build
 
 Anything Bitcoin or Nostr, as long as it's open source. See the difficulty-rated [project menu](project-menu.md).
@@ -78,7 +92,7 @@ You agree one milestone per month with your mentor in month 1. Defaults:
 |---|---|---|
 | Every Monday | 2-minute standup: did, next, blocked. Tick "I'd like help" to get a call. | Fellow dashboard |
 | Every week | 30–60 minute mentor call | Call |
-| Every Friday | Review at least one PR by someone else | GitHub |
+| Every Friday | Review a PR by someone else (at least 2 substantive reviews a month) | GitHub |
 | Every 2 weeks | Fellows sync: short demo or update | Discord |
 | By the 5th | Monthly report: shipped, PRs, reviews, next. It's your invoice. | Fellow dashboard |
 | Month 3 & 6 | 45-minute check / 1-hour review | Call |
@@ -136,6 +150,8 @@ If being public about Bitcoin work puts you at real risk where you live, tell us
 - **Respect maintainers' time:** read the contributing guide, keep PRs small, write good descriptions, answer review comments.
 - **Review before you ask for review.**
 - **AI tools are fine; AI slop is not.** Understand and be able to explain every line you submit. Never open a PR you haven't tested and read yourself.
+- **Security first:** found a vulnerability? Follow the project's security policy and report it privately, never in a public issue.
+- **Stay safe:** don't share your address, location or holdings publicly; a nym is fine.
 - **Learn in public:** share one thing a month (a thread, a Nostr note, a write-up or a session).
 - **Pay it forward:** help one newer learner during your fellowship.
 - **Be kind.** The [code of conduct](../CODE_OF_CONDUCT.md) applies everywhere.
@@ -153,11 +169,30 @@ If being public about Bitcoin work puts you at real risk where you live, tell us
 
 ---
 
+## 9b. Graduation
+
+- **Demo** your work to the community and invited guests.
+- **Certificate** you can verify, linked to your proof-of-work page.
+- **Next step:** intros, references and help applying for long-term open-source support or a role.
+- **Extend or mentor:** strong fellows can extend, or come back to mentor the next round.
+
+---
+
+## FAQ
+
+- **Can I keep my job or studies?** Yes, 15–20 hours a week is part-time. Be honest about your time.
+- **Can I use a nym?** Yes. We need a working email for your dashboard and payments.
+- **Two projects?** One main project; reviews and small fixes elsewhere count.
+- **PRs not merged?** Normal in Bitcoin. Reviews, tests and honest progress count.
+- **Must I live in Southeast Asia?** No, it's a priority, not a requirement.
+
+---
+
 ## 10. How to apply
 
 1. Take the **readiness check** at [codeorange.dev/fellowships/apply](https://codeorange.dev/fellowships/apply).
 2. Fill in the **application**: proof of work, project, and a 6-month plan with a goal per month.
-3. **A human replies within 2 weeks.** Shortlisted applicants get a short Discord call.
+3. **A human replies within 2 weeks.** Shortlisted applicants get a 20-minute PR walkthrough call.
 4. **Offer and mentor match.** A fellowship only starts once its mentor is confirmed.
 5. **Start on the 1st** with your fellow dashboard, milestones and first standup.
 
