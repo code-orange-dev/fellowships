@@ -15,7 +15,7 @@ This page is the short, practical version of everything in this folder: the bar 
 |---|---|
 | **Stipend** | $512 a month, paid in bitcoin |
 | **Length** | 6 months, extendable after the month-6 review |
-| **Time** | 15–20 hours a week (part-time is fine) |
+| **Time** | 10–15 hours a week (part-time is fine) |
 | **Scope** | Any Bitcoin or Nostr open-source project. Privacy projects are a big plus. |
 | **Support** | A mentor, a peer group of fellows, a fellow dashboard and a public proof-of-work page |
 
@@ -30,7 +30,7 @@ We pick people who have already started. We judge where you're heading, not just
 - **You've done the learning.** A Code Orange cohort (like [Decoding Bitcoin](https://codeorange.dev/decoding-bitcoin)), Chaincode, Summer of Bitcoin, Btrust, or serious self-study.
 - **At least one PR or real review** on the project you want to work on. Small is fine.
 - **A working setup:** you can build the project and run its tests.
-- **Time:** 15–20 hours a week for 6 months.
+- **Time:** 10–15 hours a week for 6 months.
 - **A 6-month plan** with one goal per month.
 - **Okay with working in public:** your monthly highlights and GitHub work go on your proof-of-work page. Payments stay private.
 - **Commitment to [Code Review Club](https://github.com/code-orange-dev/code-orange-dev/blob/main/privacy-contributor-program/REVIEW_CLUB.md) and the [Privacy Track](https://codeorange.dev/privacy-track)**, including presenting your work.
@@ -182,11 +182,14 @@ If being public about Bitcoin work puts you at real risk where you live, tell us
 
 ## FAQ
 
-- **Can I keep my job or studies?** Yes, 15–20 hours a week is part-time. Be honest about your time.
+- **Can I keep my job or studies?** Yes, 10–15 hours a week is part-time. Be honest about your time.
 - **Can I use a nym?** Yes. We need a working email for your dashboard and payments.
 - **Two projects?** One main project; reviews and small fixes elsewhere count.
 - **PRs not merged?** Normal in Bitcoin. Reviews, tests and honest progress count.
 - **Must I live in Southeast Asia?** No, it's a priority, not a requirement.
+- **Is it only for students?** No. Students, working developers and career switchers can all apply. What counts is your proof of work and 10–15 hours a week. One limit: if you're already funded to work on Bitcoin or Nostr open source (a grant or a paid fellowship), you're past this stage and a grant is your next step. Free courses and challenges don't count as funding.
+- **What makes a good project?** Open source (public repo, open licence), Bitcoin or Nostr, with active maintainers who review PRs and a contributor who can mentor you. Your work should help real users. Privacy projects get priority. Your own project can work if it's open source and others use it, but an existing project with active maintainers is the safer bet. See the [project menu](project-menu.md).
+- **Do I need a fixed plan, or can I just contribute?** Both work. You agree one goal per month with your mentor, and a goal can be open contribution, like "review 4 PRs and fix 2 good first issues". PRs, reviews, tests and bug reports all count. A big planned feature is welcome but not required.
 
 ---
 

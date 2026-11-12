@@ -25,7 +25,7 @@ No. If you are under 18, tell us so we can be sensible about it.
 Not a problem, and non-English cohorts are actively wanted. Bahasa Indonesia, Hindi, Portuguese, Swahili, Korean - reaching people in their own language is the point. Applications in imperfect English are completely fine; we care what you say, not how polished it is.
 
 **I have a full-time job.**
-Educator: very doable at 8-12 hours a week. Developer: 15-20 hours a week on top of full-time work is hard for six months. Be honest with yourself, and tell us your real availability.
+Educator: very doable at 8-12 hours a week. Developer: 10-15 hours a week on top of full-time work is hard for six months. Be honest with yourself, and tell us your real availability.
 
 ---
 

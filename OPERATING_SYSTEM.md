@@ -22,7 +22,7 @@ Do not accept a fellow until one primary mentor, one fallback contact, and a pro
 - A reproducible local development environment and a scoped six-month plan for a Bitcoin OSS project.
 - At least one upstream PR submitted by the fellowship start date. An application may be reviewed provisionally before that point, but no seat is awarded without the evidence.
 - A named mentor fit and, where possible, a project maintainer or contributor endorsement.
-- Realistic availability: 15-20 hours per week part-time or 35+ hours full-time.
+- Realistic availability: 10-15 hours per week part-time or 35+ hours full-time.
 
 ### Selection rubric (100 points)
 

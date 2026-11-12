@@ -12,7 +12,7 @@
 
 **Contact:** (email + Telegram or Discord)
 
-**Hours/week:** Part-time (15-20) or Full-time (35+)
+**Hours/week:** Part-time (10-15) or Full-time (35+)
 
 **Preferred start:** H1 (January) or H2 (July)
 

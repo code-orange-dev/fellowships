@@ -1,6 +1,6 @@
 # Developer Fellowship - One Pager
 
-> $512/month, 6 months (extendable), 15-20 hrs/week. Get paid to ship Bitcoin open source.
+> $512/month, 6 months (extendable), 10-15 hrs/week. Get paid to ship Bitcoin open source.
 
 ---
 
@@ -10,7 +10,7 @@
 |---|---|
 | **Stipend** | $512/month, paid monthly on reliable rails |
 | **Duration** | 6 months, extendable for proven contributors |
-| **Commitment** | 15-20 focused hours per week, alongside any day job |
+| **Commitment** | 10-15 focused hours per week, alongside any day job |
 | **Support** | Named mentor, weekly call, PR review within ~48h |
 | **Community** | Bi-weekly fellow sync, Code Orange Discord, optional Bali hub access |
 | **Outcome** | 6+ PRs merged, one grant application submitted, path to independent FOSS work |
@@ -22,7 +22,7 @@
 - You completed a Bitcoin dev cohort (Code Orange, Chaincode, Summer of Bitcoin, or serious self-study)
 - You can already write code and navigate a real codebase - we are de-risking, not teaching basics
 - You have visible GitHub activity - even one small merged PR counts
-- You can protect 15-20 hours a week for 6 months, honestly
+- You can protect 10-15 hours a week for 6 months, honestly
 - You are committed to Bitcoin specifically, not using this as a stepping stone to generic Web3 work
 
 Fastest path in: open at least one PR to your target project *before* applying.

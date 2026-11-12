@@ -13,7 +13,7 @@ How stipends are calculated and paid, and what happens when a month falls short.
 | **Educator Fellow** | **$256** | 8 session credits/month, averaged quarterly |
 | Apprentice Educator | ⚠️ *to be set* | 4 credits/month |
 | Lead Educator | ⚠️ *to be set* | 8 credits + track ownership + mentoring |
-| **Developer Fellow** | **$512** | ~15-20 hours/week |
+| **Developer Fellow** | **$512** | ~10-15 hours/week |
 
 Amounts are denominated in **USD and paid in Bitcoin**. The USD figure is the fixed obligation; the sat amount varies with the rate.
 

@@ -16,7 +16,7 @@ This fellowship exists to pay for exactly that period.
 |---|---|
 | **Stipend** | **$512/month** in Bitcoin |
 | **Term** | 6 months, renewable |
-| **Commitment** | ~15-20 hours/week |
+| **Commitment** | ~10-15 hours/week |
 | **You choose** | Which open-source project you contribute to |
 | **Reporting** | Weekly standup + monthly report due the 5th |
 | **Exit outcome** | Grant-ready: a public contribution record strong enough to apply to OpenSats, Brink, HRF or Spiral |
@@ -127,7 +127,7 @@ Not a fixed quota - different projects move at very different speeds, and one me
 - Completed a Code Orange cohort, or equivalent self-study, and hit the "what now?" wall
 - Can read code in the project's language without a tutorial open
 - At least one merged PR somewhere, in any project, any language
-- Can commit 15-20 hours a week for six months without your life falling apart
+- Can commit 10-15 hours a week for six months without your life falling apart
 
 **Not yet:**
 - Never opened a pull request → do a cohort first

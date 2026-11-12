@@ -112,7 +112,7 @@ that you cannot now?
 
 ## 7. Time and life
 
-**Hours per week you can commit:** <!-- 15-20 is the expectation -->
+**Hours per week you can commit:** <!-- 10-15 is the expectation -->
 **When are those hours?** <!-- Evenings, weekends, full days -->
 **Do you have other work or study?**
 **Anything in the next six months that would interrupt this?** <!-- Be honest. We plan around real life; we cannot plan around surprises. -->

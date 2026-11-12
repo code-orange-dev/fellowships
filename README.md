@@ -158,7 +158,7 @@ Fellowship seats are limited by verified mentor capacity, not by the number of a
 | Monthly stipend | $512 USD | $256 USD |
 | Payment method | Bitcoin - Lightning, on-chain or eCash, your choice | Bitcoin - Lightning, on-chain or eCash, your choice |
 | Duration | 6 months | 6 months |
-| Time commitment | 15-20 hrs/wk (part-time) or 35+ (full-time) | 10-15 hrs/wk |
+| Time commitment | 10-15 hrs/wk (part-time) or 35+ (full-time) | 10-15 hrs/wk |
 | Extension | Possible based on performance | Possible based on performance |
 
 ### For Funders
