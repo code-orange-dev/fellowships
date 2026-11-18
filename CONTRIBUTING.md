@@ -57,6 +57,20 @@ Once you've contributed, you can join our **train-the-trainer** program, run wor
 
 By participating you agree to our [Code of Conduct](./CODE_OF_CONDUCT.md). Be kind, be curious, help newcomers.
 
+---
+
+## Privacy rule for this repo
+
+This repo is public. Never commit applications, applicant names or details, email addresses, wallet addresses, Lightning invoices or what any one person is paid. Applications happen privately at [codeorange.dev/fellowships/apply](https://codeorange.dev/fellowships/apply).
+
+Before opening a pull request, run the docs check. It catches broken links and anchors, and blocks personal emails, bitcoin addresses and invoices:
+
+```bash
+python3 scripts/check_docs.py
+```
+
+The same check runs automatically on every pull request.
+
 ## Questions?
 
-Open an issue, ask in [Discord](https://discord.gg/xd6dmPF9bA), or reach us at keypleb@blink.sv.
+Open an issue, ask in [Discord](https://discord.gg/xd6dmPF9bA), or reach us at hello@codeorange.dev.

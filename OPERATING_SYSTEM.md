@@ -4,12 +4,12 @@ This document turns the fellowship promise into a repeatable operating rhythm wh
 
 ## 1. Capacity Comes Before Recruitment
 
-Do not accept a fellow until one primary mentor, one fallback contact, and a project-fit work plan are recorded. Start the first cohort with no more seats than this table supports.
+Do not accept a fellow until one primary mentor, one fallback contact, and a project-fit work plan are recorded. Never run more seats than this table supports. *Last updated: November 2026.*
 
 | Track | Mentor | Project / area | Maximum fellows | Confirmed fellows | Fallback contact | Weekly slot | Status |
 | --- | --- | --- | ---: | ---: | --- | --- | --- |
-| Developer | `unassigned` | Privacy / wallet infrastructure | 0 | 0 | `unassigned` | `unassigned` | Not ready to recruit |
-| Educator | `unassigned` | Southeast Asia cohort delivery | 0 | 0 | `unassigned` | `unassigned` | Not ready to recruit |
+| Developer | 1 mentor confirmed (name kept private) | Privacy / node / wallet infrastructure | 1 | 1 | Code Orange organisers | Agreed with the fellow | Active: new seats open only when another mentor confirms |
+| Educator | `unassigned` | Southeast Asia cohort delivery | 0 | 0 | `unassigned` | `unassigned` | Proposals welcome; not yet recruiting |
 
 **Capacity rule:** one mentor supports at most two developer fellows and must commit to a prepared weekly 30-60 minute check-in. Upstream maintainers are never promised a review SLA; Code Orange supplies structure, escalation, and peer review while the upstream project controls acceptance.
 

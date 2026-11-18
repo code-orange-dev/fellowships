@@ -1,0 +1,33 @@
+name: I'd like to mentor a fellow
+description: Mentors unlock new fellowship seats. Tell us about your project.
+title: "Mentor: "
+labels: ["mentor"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you! Mentoring means a 30-60 minute weekly call with one fellow and timely feedback on their PRs. Prefer email? Write to hello@codeorange.dev instead.
+  - type: input
+    id: project
+    attributes:
+      label: Project(s) you contribute to
+      placeholder: e.g. rust-payjoin, Floresta, rust-nostr
+    validations:
+      required: true
+  - type: input
+    id: profile
+    attributes:
+      label: Your GitHub or Nostr profile
+    validations:
+      required: true
+  - type: dropdown
+    id: capacity
+    attributes:
+      label: How many fellows could you mentor?
+      options: ["1", "2"]
+    validations:
+      required: true
+  - type: textarea
+    id: ideas
+    attributes:
+      label: Starter tasks or project ideas a fellow could take on (optional)
