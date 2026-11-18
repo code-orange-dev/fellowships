@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Code Orange Fellowship: ship code, grow builders, make Bitcoin more private" width="100%">
+  <img src="assets/banner.jpg" alt="Code Orange Fellowship: get paid in bitcoin to build Bitcoin and Nostr open source" width="100%">
 </p>
 
 <p align="center">
