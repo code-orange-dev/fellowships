@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Apply for the Developer Fellowship
+    url: https://codeorange.dev/fellowships/apply
+    about: Applications are private. Please apply on the website, never in a GitHub issue.
+  - name: Educator Track proposal
+    url: mailto:hello@codeorange.dev
+    about: Email your proposal (template in templates/education-proposal.md).
+  - name: Chat with us on Discord
+    url: https://discord.gg/xd6dmPF9bA
+    about: Quick questions, study groups and Code Review Club.

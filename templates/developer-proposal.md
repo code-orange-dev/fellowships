@@ -14,7 +14,7 @@
 
 **Hours/week:** Part-time (10-15) or Full-time (35+)
 
-**Preferred start:** H1 (January) or H2 (July)
+**Preferred start month:** (applications are rolling)
 
 ---
 

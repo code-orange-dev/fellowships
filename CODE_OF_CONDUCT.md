@@ -23,7 +23,7 @@ This applies to all Code Orange spaces - GitHub repos, Discord, workshops (onlin
 
 ## Enforcement
 
-If someone is making the community worse, tell us. Contact a maintainer on [Discord](https://discord.gg/xd6dmPF9bA) or email **keypleb@blink.sv**. Reports are handled confidentially. Maintainers may warn, mute, or remove anyone whose behavior is harmful, at their discretion.
+If someone is making the community worse, tell us. Contact a maintainer on [Discord](https://discord.gg/xd6dmPF9bA) or email **hello@codeorange.dev**. Reports are handled confidentially. Maintainers may warn, mute, or remove anyone whose behavior is harmful, at their discretion.
 
 ## Spirit
 

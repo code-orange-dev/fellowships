@@ -12,7 +12,7 @@
 
 **Languages you can teach in:**
 
-**Preferred start:** H1 (January) or H2 (July)
+**Preferred start month:** (applications are rolling)
 
 ---
 

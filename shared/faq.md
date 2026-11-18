@@ -1,6 +1,6 @@
 # Fellowship FAQ
 
-Missing question? [Open an issue](https://github.com/code-orange-dev/code-orange-dev/issues) and we will add it.
+Missing question? [Open a question](https://github.com/code-orange-dev/fellowships/issues/new?template=question.yml) and we will add it.
 
 ---
 

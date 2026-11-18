@@ -1,0 +1,17 @@
+name: Compare notes (other programs)
+description: You run a fellowship, cohort or grant program and want to share what works.
+title: "Notes: "
+labels: ["community"]
+body:
+  - type: input
+    id: program
+    attributes:
+      label: Your program and link
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: What would you like to share or ask?
+    validations:
+      required: true
